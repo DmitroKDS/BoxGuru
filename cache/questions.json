@@ -1,0 +1,5162 @@
+{
+  "ru": [
+    {
+      "text": "1. Какую максимальную сумму ты готов потратить на покупку нового смартфона? Узнать актуальный курс удобной для тебя валюты по отношению к доллару можно по этой ссылке <a href=\"https://www.google.com/search?q=Euro%20to%20United%20States%20Dollar&shndl=32&shem=csic&source=sh%2Fx%2Fccy%2Fob%2Fm1%2F3&kgs=7462324181829185\">Currency Converter</a>",
+      "options": [
+        "до 50$",
+        "до 100$",
+        "до 200$",
+        "до 300$",
+        "до 400$",
+        "до 500$",
+        "до 600$",
+        "до 700$",
+        "до 800$",
+        "до 900$",
+        "до 1000$",
+        "до 1200$",
+        "до 1500$",
+        "до 2000$",
+        "до 2500$",
+        "до 3000$",
+        "Не определился",
+        "Далее"
+      ]
+    },
+    {
+      "text": "2. Укажи марки смартфонов, которые у тебя были ранее и ты остался ими ДОВОЛЕН.",
+      "options": [
+        "iPhone",
+        "Samsung",
+        "Xiaomi",
+        "Oppo",
+        "Vivo",
+        "Huawei",
+        "Realme",
+        "Pixel",
+        "Oneplus",
+        "Sony",
+        "Tecno",
+        "Infinix",
+        "Не определился",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "3. Укажи марки смартфонов, которые у тебя были ранее и ты остался ими НЕДОВОЛЕН.",
+      "options": [
+        "iPhone",
+        "Samsung",
+        "Xiaomi",
+        "Oppo",
+        "Vivo",
+        "Huawei",
+        "Realme",
+        "Pixel",
+        "Oneplus",
+        "Sony",
+        "Tecno",
+        "Infinix",
+        "Не определился",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "4. Какая операционная система для тебя более понятна и удобна?",
+      "options": [
+        "iOS (iPhone)",
+        "Android (все остальные смартфоны)",
+        "Не определился",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "5. Как часто ты меняешь смартфон?",
+      "options": [
+        "раз в год",
+        "раз в два года",
+        "раз в три года",
+        "раз в пять лет",
+        "Не определился",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "6. Смартфон какого размера тебе необходим?",
+      "options": [
+        "Компактный",
+        "Средний",
+        "Большой",
+        "Не определился",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "7. Какой формфактор (дизайн) смартфона ты предпочитаешь?",
+      "options": [
+        "Стандартный (классический смартфон)",
+        "Тонкий смартфон",
+        "Максимально защищенный смартфон",
+        "Складной смартфон (как книжка)",
+        "Складной смартфон (узкий, как книжка)",
+        "Не определился",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "8. Насколько важно для тебя иметь самую новую модель?",
+      "options": [
+        "Важно",
+        "Не важно",
+        "Не определился",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "9. Какой цвет смартфона ты предпочитаешь?",
+      "options": [
+        "Черный",
+        "Белый",
+        "Синий",
+        "Серый",
+        "Золотистый",
+        "Серебристый",
+        "Не принципиально",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "10. Какой вариант фронтальной камеры (селфи-камеры) тебе больше подходит?",
+      "options": [
+        "Обычная (точка на экране)",
+        "Подэкранная (скрытая под поверхностью экрана, которую не видно)",
+        "Выдвижная (которая выезжает из корпуса)",
+        "Как у iPhone (челка)",
+        "Не принципиально",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "11. Какой дисплей ты предпочитаешь?",
+      "options": [
+        "AMOLED",
+        "IPS",
+        "Не разбираюсь",
+        "Не принципиально",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "12. Какое разрешение экрана ты предпочитаешь?",
+      "options": [
+        "HD",
+        "Full HD",
+        "Quad HD",
+        "Не разбираюсь",
+        "Не принципиально",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "13. Какая частота обновления экрана тебя устроит?",
+      "options": [
+        "60 Гц",
+        "90 Гц",
+        "120 Гц",
+        "Не разбираюсь",
+        "Не принципиально",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "14. Часто ли ты используешь смартфон на ярком солнце?",
+      "options": [
+        "Часто",
+        "Редко",
+        "Иногда",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "15. Насколько часто ты планируешь делать фото с помощью нового смартфона?",
+      "options": [
+        "Часто",
+        "Редко",
+        "Иногда",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "16. Часто ли ты будешь делать селфи?",
+      "options": [
+        "Часто",
+        "Редко",
+        "Не фотографирую",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "17. Часто ли ты фотографируешь пейзажи?",
+      "options": [
+        "Да",
+        "Нет",
+        "Не знаю",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "18. Нужен ли тебе оптический зум?",
+      "options": [
+        "Часто",
+        "Редко",
+        "Обычно",
+        "Не знаю",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "19. Часто ли ты планируешь снимать видео с помощью смартфона?",
+      "options": [
+        "Важно",
+        "Не важно",
+        "Не знаю",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "20. Важна ли для тебя возможность съемки в формате 4К?",
+      "options": [
+        "Важно",
+        "Не важно",
+        "Не знаю",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "21. Важна ли для тебя возможность съемки в формате 8К?",
+      "options": [
+        "Да",
+        "Нет",
+        "Не знаю",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "22. Редактируешь ли ты фотографии прямо на смартфоне?",
+      "options": [
+        "Да, часто",
+        "Да, редко",
+        "Не играю",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "23. Собираешься ли ты использовать смартфон для игр?",
+      "options": [
+        "PUBG Mobile",
+        "Call of Duty: Mobile",
+        "Genshin Impact",
+        "Clash of Clans",
+        "Roblox",
+        "Простые игры",
+        "Не играю",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "24. В какие игры ты играешь на смартфоне?",
+      "options": [
+        "64ГБ",
+        "128ГБ",
+        "256ГБ",
+        "512ГБ",
+        "1ТБ",
+        "Не принципиально",
+        "Не знаю",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "25. Какой минимальный объем встроенной памяти тебе необходим?",
+      "options": [
+        "Обязательно",
+        "Не принципиально",
+        "Не знаю",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "26. Важна ли для тебя возможность увеличения памяти смартфона с помощью карт microSD?",
+      "options": [
+        "Да",
+        "Нет",
+        "Не знаю",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "27. Планируешь ли ты использовать смартфон в режиме многозадачности (открывать на одном экране несколько приложений одновременно)?",
+      "options": [
+        "Да",
+        "Нет",
+        "Не знаю",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "28. Важно ли для тебя наличие беспроводной зарядки?",
+      "options": [
+        "Да",
+        "Нет",
+        "Не знаю",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "29. Важна ли тебе поддержка NFC для бесконтактных платежей?",
+      "options": [
+        "Да",
+        "Нет",
+        "Не знаю",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "30. Необходим ли тебе разъём для подключения проводных наушников (3,5 мм)?",
+      "options": [
+        "Да",
+        "Нет",
+        "Не знаю",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "31. Нужен ли тебе датчик отпечатков пальцев?",
+      "options": [
+        "Да",
+        "Нет",
+        "Не знаю",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "32. Важна ли для тебя возможность разблокировки смартфона с помощью лица?",
+      "options": [
+        "Да",
+        "Нет",
+        "Не знаю",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "33. Важен ли для тебя уровень защиты смартфона от воды и пыли (стандарт IP)?",
+      "options": [
+        "Да",
+        "Нет",
+        "Не знаю",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "34.Важно ли для тебя наличие функции Always-On Display?",
+      "options": [
+        "Важно",
+        "Не важно",
+        "Не знаю",
+        "Не разбираюсь",
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "35.В нескольких словах опиши, какой смартфон тебе нужен. Пример: «я часто играю на смартфоне и мне нужен смартфон для игр», «я - мастер маникюра, и мне нужен смартфон с хорошей камерой, чтобы вести свой инстаграм»",
+      "options": [
+        "Свой вариант ответа",
+        "Далее"
+      ]
+    },
+    {
+      "text": "36.В какой стране ты проживаешь?",
+      "options": [
+        "Свой вариант ответа"
+      ]
+    }
+  ],
+  "ar": [
+    {
+      "text": "1. ما هو الحد الأقصى للمبلغ الذي أنت مستعد لإنفاقه على شراء هاتف ذكي جديد؟ يمكنك معرفة سعر الصرف الحالي للعملة المريحة فيما يتعلق بالدولار على هذا الرابط <a href=\"https://www.google.com/search?q=Euro%20to%20United%20States%20Dollar&shndl=32&shem=csic&source=sh%2Fx%2Fccy%2Fob%2Fm1%2F3&kgs=7462324181829185\">Currency Converter</a>",
+      "options": [
+        "يصل إلى 50 دولارًا",
+        "ما يصل إلى 100 دولار",
+        "ما يصل إلى 200 دولار",
+        "ما يصل إلى 300 دولار",
+        "ما يصل إلى 400 دولار",
+        "ما يصل إلى 500 دولار",
+        "ما يصل إلى 600 دولار",
+        "ما يصل إلى 700 دولار",
+        "ما يصل إلى 800 دولار",
+        "ما يصل إلى 900 دولار",
+        "ما يصل إلى 1000 دولار",
+        "ما يصل إلى 1200 دولار",
+        "ما يصل إلى 1500 دولار",
+        "ما يصل إلى 2000 دولار",
+        "ما يصل إلى 2500 دولار",
+        "ما يصل إلى 3000 دولار",
+        "لم يقرر",
+        "التالي"
+      ]
+    },
+    {
+      "text": "2. أشر إلى العلامات التجارية للهواتف الذكية التي كان لديك من قبل وكنت سعيدًا بها.",
+      "options": [
+        "iPhone",
+        "سامسونج",
+        "Xiaomi",
+        "oppo",
+        "الجسم الحي",
+        "هواوي",
+        "عالم",
+        "بكسل",
+        "OnePlus",
+        "سوني",
+        "tecno",
+        "إنفينيكس",
+        "لم يقرر",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "3. أشر إلى العلامات التجارية للهواتف الذكية التي كان لديك من قبل وبقيت غير راضية عنها.",
+      "options": [
+        "iPhone",
+        "سامسونج",
+        "Xiaomi",
+        "oppo",
+        "الجسم الحي",
+        "هواوي",
+        "عالم",
+        "بكسل",
+        "OnePlus",
+        "سوني",
+        "tecno",
+        "إنفينيكس",
+        "لم يقرر",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "4. ما هو نظام التشغيل الأكثر فهمًا ومريحًا بالنسبة لك؟",
+      "options": [
+        "iOS (iPhone)",
+        "Android (جميع الهواتف الذكية الأخرى)",
+        "لم يقرر",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "5. كم مرة تقوم بتغيير الهاتف الذكي؟",
+      "options": [
+        "مرة واحدة في السنة",
+        "مرة كل عامين",
+        "مرة كل ثلاث سنوات",
+        "مرة كل خمس سنوات",
+        "لم يقرر",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "6. ما هو حجم الهاتف الذكي الذي تحتاجه؟",
+      "options": [
+        "مضغوط",
+        "متوسط",
+        "كبير",
+        "لم يقرر",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "7. ما هو عامل الشكل (تصميم) للهاتف الذكي الذي تفضله؟",
+      "options": [
+        "قياسي (الهاتف الذكي الكلاسيكي)",
+        "الهاتف الذكي الدقيق",
+        "الهاتف الذكي الأكثر حماية",
+        "الهاتف الذكي القابل للطي (مثل كتاب)",
+        "الهاتف الذكي القابل للطي (ضيق ، مثل كتاب)",
+        "لم يقرر",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "8. ما مدى أهمية أن يكون لديك أحدث طراز؟",
+      "options": [
+        "مهم",
+        "لا يهم",
+        "لم يقرر",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "9. ما هو لون الهاتف الذكي الذي تفضله؟",
+      "options": [
+        "أسود",
+        "أبيض",
+        "أزرق",
+        "رمادي",
+        "ذهبي",
+        "فضي",
+        "ليست أساسية",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "10. أي إصدار من الكاميرا الأمامية (كاميرات شخصية) يناسبك أكثر؟",
+      "options": [
+        "عادي (نقطة على الشاشة)",
+        "Podkran (مخبأة تحت سطح الشاشة ، وهو غير مرئي)",
+        "انزلاق (الذي يترك السلك)",
+        "مثل iPhone (الانفجارات)",
+        "ليست أساسية",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "11. ما هو العرض الذي تفضله؟",
+      "options": [
+        "amoled",
+        "IPS",
+        "لا أفهم",
+        "ليست أساسية",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "12. ما هو دقة الشاشة التي تفضلها؟",
+      "options": [
+        "XD",
+        "كامل HD",
+        "رباعي HD",
+        "لا أفهم",
+        "ليست أساسية",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "13. ما هي تواتر تحديث الشاشة الذي سيقوم بترتيبك؟",
+      "options": [
+        "60 هرتز",
+        "90 هرتز",
+        "120 هرتز",
+        "لا أفهم",
+        "ليست أساسية",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "14. هل تستخدم في كثير من الأحيان هاتف ذكي على أشعة الشمس الساطعة؟",
+      "options": [
+        "غالباً",
+        "نادرًا",
+        "أحيانا",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "15. كم مرة تخطط لالتقاط الصور باستخدام هاتف ذكي جديد؟",
+      "options": [
+        "غالباً",
+        "نادرًا",
+        "أحيانا",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "16. هل تتناول صورة شخصية غالبًا؟",
+      "options": [
+        "غالباً",
+        "نادرًا",
+        "أنا لا أتصور",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "17. هل تلتقط صورًا للمناظر الطبيعية غالبًا؟",
+      "options": [
+        "نعم",
+        "لا",
+        "لا أعرف",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "18. هل تحتاج إلى تكبير بصري؟",
+      "options": [
+        "غالباً",
+        "نادرًا",
+        "عادة",
+        "لا أعرف",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "19. هل تخطط غالبًا لتصوير الفيديو باستخدام هاتف ذكي؟",
+      "options": [
+        "مهم",
+        "لا يهم",
+        "لا أعرف",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "20. هل إمكانية إطلاق النار بتنسيق 4K مهم بالنسبة لك؟",
+      "options": [
+        "مهم",
+        "لا يهم",
+        "لا أعرف",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "21. هل إمكانية إطلاق النار بتنسيق 8K مهم بالنسبة لك؟",
+      "options": [
+        "نعم",
+        "لا",
+        "لا أعرف",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "22. هل تقوم بتحرير الصور مباشرة على الهاتف الذكي؟",
+      "options": [
+        "نعم ، في كثير من الأحيان",
+        "نعم ، نادرا",
+        "أنا لا ألعب",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "23. هل ستستخدم هاتفًا ذكيًا للألعاب؟",
+      "options": [
+        "PUBG Mobile",
+        "Call of Duty: Mobile",
+        "تأثير المرأة",
+        "صدام العشائر",
+        "روبوكس",
+        "ألعاب بسيطة",
+        "أنا لا ألعب",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "24. ما هي الألعاب التي تلعبها على هاتف ذكي؟",
+      "options": [
+        "64 جيجابايت",
+        "128 جيجابايت",
+        "256 جيجابايت",
+        "512 جيجابايت",
+        "1 تيرابايت",
+        "ليست أساسية",
+        "لا أعرف",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "25. ما هو الحد الأدنى لمقدار الذاكرة المدمجة؟",
+      "options": [
+        "بالضرورة",
+        "ليست أساسية",
+        "لا أعرف",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "26. هل من المهم بالنسبة لك زيادة ذاكرة الهاتف الذكي باستخدام بطاقات microSD؟",
+      "options": [
+        "نعم",
+        "لا",
+        "لا أعرف",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "27. هل تخطط لاستخدام هاتف ذكي في وضع المهام المتعددة (افتح العديد من التطبيقات على شاشة واحدة في نفس الوقت)؟",
+      "options": [
+        "نعم",
+        "لا",
+        "لا أعرف",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "28. هل من المهم بالنسبة لك أن يكون لديك شحن لاسلكي؟",
+      "options": [
+        "نعم",
+        "لا",
+        "لا أعرف",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "29. هل دعم NFC للمدفوعات التي لا تلامس مهمة لك؟",
+      "options": [
+        "نعم",
+        "لا",
+        "لا أعرف",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "30. هل تحتاج إلى موصل لتوصيل سماعات الرأس السلكية (3.5 مم)؟",
+      "options": [
+        "نعم",
+        "لا",
+        "لا أعرف",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "31. هل تحتاج إلى مستشعر بصمات الأصابع؟",
+      "options": [
+        "نعم",
+        "لا",
+        "لا أعرف",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "32. هل إمكانية فتح هاتف ذكي مع وجه مهم بالنسبة لك؟",
+      "options": [
+        "نعم",
+        "لا",
+        "لا أعرف",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "33. هل مستوى حماية الهاتف الذكي من الماء والغبار مهم بالنسبة لك (معيار IP)؟",
+      "options": [
+        "نعم",
+        "لا",
+        "لا أعرف",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "34. هل من الممكن أن يكون لديك وظيفة العرض دائمًا؟",
+      "options": [
+        "مهم",
+        "لا يهم",
+        "لا أعرف",
+        "لا أفهم",
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "35. في بضع كلمات ، صف الهاتف الذكي الذي تحتاجه. مثال: \"غالبًا ما ألعب على هاتف ذكي وأحتاج إلى هاتف ذكي للألعاب\" ، \"أنا سيد مانيكير ، وأحتاج إلى هاتف ذكي مع كاميرا جيدة لقيادة Instagram\"",
+      "options": [
+        "نسختك الخاصة من الإجابة",
+        "التالي"
+      ]
+    },
+    {
+      "text": "36. في أي بلد تعيش؟",
+      "options": [
+        "نسختك الخاصة من الإجابة"
+      ]
+    }
+  ],
+  "en": [
+    {
+      "text": "1. What is the maximum amount are you ready to spend on the purchase of a new smartphone? You can find out the current exchange rate of a convenient currency in relation to the dollar at this link <a href=\"https://www.google.com/search?q=Euro%20to%20United%20States%20Dollar&shndl=32&shem=csic&source=sh%2Fx%2Fccy%2Fob%2Fm1%2F3&kgs=7462324181829185\">Currency Converter</a>",
+      "options": [
+        "up to $ 50",
+        "up to $ 100",
+        "up to $ 200",
+        "up to $ 300",
+        "up to $ 400",
+        "up to $ 500",
+        "up to $ 600",
+        "up to $ 700",
+        "up to $ 800",
+        "up to $ 900",
+        "up to $ 1000",
+        "up to $ 1200",
+        "up to $ 1,500",
+        "up to $ 2000",
+        "up to $ 2500",
+        "up to $ 3000",
+        "Not decided",
+        "Next"
+      ]
+    },
+    {
+      "text": "2. Indicate the brands of smartphones that you had before and you were pleased with them.",
+      "options": [
+        "iPhone",
+        "Samsung",
+        "Xiaomi",
+        "Oppo",
+        "Vivo",
+        "Huawei",
+        "Realme",
+        "Pixel",
+        "OnePlus",
+        "Sony",
+        "Tecno",
+        "Infinix",
+        "Not decided",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "3. Indicate the brands of smartphones that you had before and you remained dissatisfied with them.",
+      "options": [
+        "iPhone",
+        "Samsung",
+        "Xiaomi",
+        "Oppo",
+        "Vivo",
+        "Huawei",
+        "Realme",
+        "Pixel",
+        "OnePlus",
+        "Sony",
+        "Tecno",
+        "Infinix",
+        "Not decided",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "4. Which operating system is more understandable and convenient for you?",
+      "options": [
+        "iOS (iPhone)",
+        "Android (all other smartphones)",
+        "Not decided",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "5. How often do you change the smartphone?",
+      "options": [
+        "Once a year",
+        "once every two years",
+        "once every three years",
+        "once every five years",
+        "Not decided",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "6. What size smartphone do you need?",
+      "options": [
+        "Compact",
+        "Average",
+        "Big",
+        "Not decided",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "7. What form factor (design) of a smartphone do you prefer?",
+      "options": [
+        "Standard (classic smartphone)",
+        "Subtle smartphone",
+        "The most protected smartphone",
+        "Folding smartphone (like a book)",
+        "Folding smartphone (narrow, like a book)",
+        "Not decided",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "8. How important is it for you to have the newest model?",
+      "options": [
+        "Important",
+        "Doesn't matter",
+        "Not decided",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "9. What color of the smartphone do you prefer?",
+      "options": [
+        "Black",
+        "White",
+        "Blue",
+        "Grey",
+        "Golden",
+        "Silver",
+        "Not fundamental",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "10. Which version of the front camera (selfie cameras) suits you more?",
+      "options": [
+        "Ordinary (point on the screen)",
+        "Podkran (hidden under the surface of the screen, which is not visible)",
+        "Sliding (which leaves the corps)",
+        "Like iPhone (bangs)",
+        "Not fundamental",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "11. What display do you prefer?",
+      "options": [
+        "Amoled",
+        "IPS",
+        "I do not understand",
+        "Not fundamental",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "12. What screen resolution do you prefer?",
+      "options": [
+        "XD",
+        "Full HD",
+        "Quad HD",
+        "I do not understand",
+        "Not fundamental",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "13. What frequency of the screen update will arrange you?",
+      "options": [
+        "60 Hz",
+        "90 Hz",
+        "120 Hz",
+        "I do not understand",
+        "Not fundamental",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "14. Do you often use a smartphone on a bright sun?",
+      "options": [
+        "Often",
+        "Rarely",
+        "Sometimes",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "15. How often do you plan to take photos using a new smartphone?",
+      "options": [
+        "Often",
+        "Rarely",
+        "Sometimes",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "16. Do you often take a selfie?",
+      "options": [
+        "Often",
+        "Rarely",
+        "I do not photograph",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "17. Do you often take pictures of landscapes?",
+      "options": [
+        "Yes",
+        "No",
+        "Don't know",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "18. Do you need an optical zoom?",
+      "options": [
+        "Often",
+        "Rarely",
+        "Usually",
+        "Don't know",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "19. Do you often plan to shoot video using a smartphone?",
+      "options": [
+        "Important",
+        "Doesn't matter",
+        "Don't know",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "20. Is the possibility of shooting in 4K format important for you?",
+      "options": [
+        "Important",
+        "Doesn't matter",
+        "Don't know",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "21. Is the possibility of shooting in 8k format important to you?",
+      "options": [
+        "Yes",
+        "No",
+        "Don't know",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "22. Do you edit photos right on the smartphone?",
+      "options": [
+        "Yes, often",
+        "Yes, rarely",
+        "I don't play",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "23. Are you going to use a smartphone for games?",
+      "options": [
+        "PUBG MOBILE",
+        "Call of Duty: Mobile",
+        "Women impact",
+        "Clash of Clans",
+        "Roblox",
+        "Simple games",
+        "I don't play",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "24. What games do you play on a smartphone?",
+      "options": [
+        "64GB",
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB",
+        "Not fundamental",
+        "Don't know",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "25. What is the minimum amount of built -in memory?",
+      "options": [
+        "Necessarily",
+        "Not fundamental",
+        "Don't know",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "26. Is it important for you to increase the memory of a smartphone using Microsd cards?",
+      "options": [
+        "Yes",
+        "No",
+        "Don't know",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "27. Do you plan to use a smartphone in multitasking mode (open several applications on one screen at the same time)?",
+      "options": [
+        "Yes",
+        "No",
+        "Don't know",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "28. Is it important for you to have a wireless charging?",
+      "options": [
+        "Yes",
+        "No",
+        "Don't know",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "29. Is NFC support for contactless payments important to you?",
+      "options": [
+        "Yes",
+        "No",
+        "Don't know",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "30. Do you need a connector for connecting wired headphones (3.5 mm)?",
+      "options": [
+        "Yes",
+        "No",
+        "Don't know",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "31. Do you need a fingerprint sensor?",
+      "options": [
+        "Yes",
+        "No",
+        "Don't know",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "32. Is the possibility of unlocking a smartphone with a face important for you?",
+      "options": [
+        "Yes",
+        "No",
+        "Don't know",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "33. Is the level of protection of the smartphone from water and dust important for you (IP standard)?",
+      "options": [
+        "Yes",
+        "No",
+        "Don't know",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "34. Is it possible for you to have the Always-on Display function?",
+      "options": [
+        "Important",
+        "Doesn't matter",
+        "Don't know",
+        "I do not understand",
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "35. In a few words, describe what smartphone you need. Example: “I often play on a smartphone and I need a smartphone for games”, “I am a master of manicure, and I need a smartphone with a good camera to lead my Instagram”",
+      "options": [
+        "Your own version of the answer",
+        "Next"
+      ]
+    },
+    {
+      "text": "36. Which country do you live in?",
+      "options": [
+        "Your own version of the answer"
+      ]
+    }
+  ],
+  "fr": [
+    {
+      "text": "1. Quel est le montant maximum prêt à dépenser pour l'achat d'un nouveau smartphone? Vous pouvez trouver le taux de change actuel d'une monnaie pratique par rapport au dollar à ce lien <a href=\"https://www.google.com/search?q=Euro%20to%20United%20States%20Dollar&shndl=32&shem=csic&source=sh%2Fx%2Fccy%2Fob%2Fm1%2F3&kgs=7462324181829185\">Currency Converter</a>",
+      "options": [
+        "jusqu'à 50 $",
+        "jusqu'à 100 $",
+        "jusqu'à 200 $",
+        "jusqu'à 300 $",
+        "jusqu'à 400 $",
+        "jusqu'à 500 $",
+        "jusqu'à 600 $",
+        "jusqu'à 700 $",
+        "jusqu'à 800 $",
+        "jusqu'à 900 $",
+        "jusqu'à 1000 $",
+        "Jusqu'à 1200 $",
+        "jusqu'à 1 500 $",
+        "Jusqu'à 2000 $",
+        "Jusqu'à 2500 $",
+        "Jusqu'à 3000 $",
+        "Pas décidé",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "2. Indiquez les marques de smartphones que vous aviez auparavant et vous en étiez satisfait.",
+      "options": [
+        "iPhone",
+        "Samsung",
+        "Xiaomi",
+        "Oppo",
+        "Vivo",
+        "Huawei",
+        "Royaume",
+        "Pixel",
+        "OnePlus",
+        "Sony",
+        "Tecno",
+        "Infinix",
+        "Pas décidé",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "3. Indiquez les marques de smartphones que vous aviez auparavant et vous êtes resté insatisfait d'eux.",
+      "options": [
+        "iPhone",
+        "Samsung",
+        "Xiaomi",
+        "Oppo",
+        "Vivo",
+        "Huawei",
+        "Royaume",
+        "Pixel",
+        "OnePlus",
+        "Sony",
+        "Tecno",
+        "Infinix",
+        "Pas décidé",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "4. Quel système d'exploitation est le plus compréhensible et le plus pratique pour vous?",
+      "options": [
+        "iOS (iPhone)",
+        "Android (tous les autres smartphones)",
+        "Pas décidé",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "5. À quelle fréquence changez-vous le smartphone?",
+      "options": [
+        "Une fois par an",
+        "une fois tous les deux ans",
+        "une fois tous les trois ans",
+        "une fois tous les cinq ans",
+        "Pas décidé",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "6. De quelle taille de smartphone avez-vous besoin?",
+      "options": [
+        "Compact",
+        "Moyenne",
+        "Grand",
+        "Pas décidé",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "7. Quel facteur de forme (conception) d'un smartphone préférez-vous?",
+      "options": [
+        "Standard (smartphone classique)",
+        "Smartphone subtil",
+        "Le smartphone le plus protégé",
+        "Smartphone pliant (comme un livre)",
+        "Smartphone pliant (étroit, comme un livre)",
+        "Pas décidé",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "8. Dans quelle mesure est-il important pour vous d'avoir le nouveau modèle?",
+      "options": [
+        "Important",
+        "Peu importe",
+        "Pas décidé",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "9. Quelle couleur du smartphone préférez-vous?",
+      "options": [
+        "Noir",
+        "Blanc",
+        "Bleu",
+        "Gris",
+        "Doré",
+        "Argent",
+        "Pas fondamental",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "10. Quelle version de la caméra frontale (caméras selfies) vous convient davantage?",
+      "options": [
+        "Ordinaire (point sur l'écran)",
+        "Podkran (caché sous la surface de l'écran, qui n'est pas visible)",
+        "Coulissant (qui quitte le corps)",
+        "Comme iPhone (frange)",
+        "Pas fondamental",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "11. Quel affichage préférez-vous?",
+      "options": [
+        "Amoufré",
+        "Ips",
+        "Je ne comprends pas",
+        "Pas fondamental",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "12. Quelle résolution d'écran préférez-vous?",
+      "options": [
+        "XD",
+        "HD complet",
+        "Quad hd",
+        "Je ne comprends pas",
+        "Pas fondamental",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "13. Quelle fréquence de mise à jour de l'écran vous organisera-t-elle?",
+      "options": [
+        "60 Hz",
+        "90 Hz",
+        "120 Hz",
+        "Je ne comprends pas",
+        "Pas fondamental",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "14. Utilisez-vous souvent un smartphone sur un soleil brillant?",
+      "options": [
+        "Souvent",
+        "Rarement",
+        "Parfois",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "15. À quelle fréquence prévoyez-vous de prendre des photos à l'aide d'un nouveau smartphone?",
+      "options": [
+        "Souvent",
+        "Rarement",
+        "Parfois",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "16. Prenez-vous souvent un selfie?",
+      "options": [
+        "Souvent",
+        "Rarement",
+        "Je ne photographie pas",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "17. Prenez-vous souvent des photos de paysages?",
+      "options": [
+        "Oui",
+        "Non",
+        "Je ne sais pas",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "18. Avez-vous besoin d'un zoom optique?",
+      "options": [
+        "Souvent",
+        "Rarement",
+        "Généralement",
+        "Je ne sais pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "19. Vous prévoyez souvent de filmer une vidéo à l'aide d'un smartphone?",
+      "options": [
+        "Important",
+        "Peu importe",
+        "Je ne sais pas",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "20. La possibilité de tirer au format 4K est-elle importante pour vous?",
+      "options": [
+        "Important",
+        "Peu importe",
+        "Je ne sais pas",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "21. La possibilité de tirer au format 8K est-elle importante pour vous?",
+      "options": [
+        "Oui",
+        "Non",
+        "Je ne sais pas",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "22. Éditez-vous des photos directement sur le smartphone?",
+      "options": [
+        "Oui, souvent",
+        "Oui, rarement",
+        "Je ne joue pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "23. Allez-vous utiliser un smartphone pour les jeux?",
+      "options": [
+        "Pubg mobile",
+        "Call of Duty: Mobile",
+        "Impact des femmes",
+        "Choc des clans",
+        "Roblox",
+        "Jeux simples",
+        "Je ne joue pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "24. Quels jeux jouez-vous sur un smartphone?",
+      "options": [
+        "64 Go",
+        "128 Go",
+        "256 Go",
+        "512 Go",
+        "1 To",
+        "Pas fondamental",
+        "Je ne sais pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "25. Quelle est la quantité minimale de mémoire construite?",
+      "options": [
+        "Nécessairement",
+        "Pas fondamental",
+        "Je ne sais pas",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "26. Est-il important pour vous d'augmenter la mémoire d'un smartphone à l'aide de cartes microSD?",
+      "options": [
+        "Oui",
+        "Non",
+        "Je ne sais pas",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "27. Vous prévoyez d'utiliser un smartphone en mode multitâche (ouvrez plusieurs applications sur un seul écran en même temps)?",
+      "options": [
+        "Oui",
+        "Non",
+        "Je ne sais pas",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "28. Est-il important que vous ayez une charge sans fil?",
+      "options": [
+        "Oui",
+        "Non",
+        "Je ne sais pas",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "29. Le support NFC pour les paiements sans contact est-il important pour vous?",
+      "options": [
+        "Oui",
+        "Non",
+        "Je ne sais pas",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "30. Avez-vous besoin d'un connecteur pour connecter des écouteurs filaires (3,5 mm)?",
+      "options": [
+        "Oui",
+        "Non",
+        "Je ne sais pas",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "31. Avez-vous besoin d'un capteur d'empreintes digitales?",
+      "options": [
+        "Oui",
+        "Non",
+        "Je ne sais pas",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "32. La possibilité de déverrouiller un smartphone avec un visage important pour vous?",
+      "options": [
+        "Oui",
+        "Non",
+        "Je ne sais pas",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "33. Le niveau de protection du smartphone contre l'eau et la poussière est-il important pour vous (norme IP)?",
+      "options": [
+        "Oui",
+        "Non",
+        "Je ne sais pas",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "34. Est-il possible pour vous d'avoir la fonction d'affichage toujours sur?",
+      "options": [
+        "Important",
+        "Peu importe",
+        "Je ne sais pas",
+        "Je ne comprends pas",
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "35. En quelques mots, décrivez de quel smartphone vous avez besoin. Exemple: «Je joue souvent sur un smartphone et j'ai besoin d'un smartphone pour les jeux», «Je suis un maître de la manucure, et j'ai besoin d'un smartphone avec un bon appareil photo pour diriger mon Instagram»",
+      "options": [
+        "Votre propre version de la réponse",
+        "Suivant"
+      ]
+    },
+    {
+      "text": "36. Dans quel pays habites-tu ?",
+      "options": [
+        "Votre propre version de la réponse"
+      ]
+    }
+  ],
+  "de": [
+    {
+      "text": "1. Was ist die maximale Menge, können Sie für den Kauf eines neuen Smartphones ausgeben? Sie können den aktuellen Wechselkurs einer bequemen Währung in Bezug auf den Dollar unter diesem Link finden <a href=\"https://www.google.com/search?q=Euro%20to%20United%20States%20Dollar&shndl=32&shem=csic&source=sh%2Fx%2Fccy%2Fob%2Fm1%2F3&kgs=7462324181829185\">Currency Converter</a>",
+      "options": [
+        "bis zu 50 Dollar",
+        "bis zu 100 $",
+        "bis zu 200 Dollar",
+        "bis zu 300 Dollar",
+        "bis zu 400 Dollar",
+        "bis zu 500 Dollar",
+        "bis zu 600 Dollar",
+        "bis zu 700 Dollar",
+        "bis zu 800 US -Dollar",
+        "bis zu 900 US -Dollar",
+        "bis zu 1000 US -Dollar",
+        "bis zu 1200 Dollar",
+        "bis zu 1.500 US -Dollar",
+        "bis zu 2000 US -Dollar",
+        "bis zu 2500 US -Dollar",
+        "bis zu 3000 US -Dollar",
+        "Nicht entschieden",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "2. Geben Sie die Marken von Smartphones an, die Sie zuvor hatten, und Sie waren mit ihnen zufrieden.",
+      "options": [
+        "iPhone",
+        "Samsung",
+        "Xiaomi",
+        "Oppo",
+        "Vivo",
+        "Huawei",
+        "Reich",
+        "Pixel",
+        "OnePlus",
+        "Sony",
+        "Tecno",
+        "Infinix",
+        "Nicht entschieden",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "3. Geben Sie die Marken von Smartphones an, die Sie zuvor hatten, und Sie blieben mit ihnen unzufrieden.",
+      "options": [
+        "iPhone",
+        "Samsung",
+        "Xiaomi",
+        "Oppo",
+        "Vivo",
+        "Huawei",
+        "Reich",
+        "Pixel",
+        "OnePlus",
+        "Sony",
+        "Tecno",
+        "Infinix",
+        "Nicht entschieden",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "4. Welches Betriebssystem ist verständlicher und bequemer für Sie?",
+      "options": [
+        "iOS (iPhone)",
+        "Android (alle anderen Smartphones)",
+        "Nicht entschieden",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "5. Wie oft wechseln Sie das Smartphone?",
+      "options": [
+        "Einmal im Jahr",
+        "einmal alle zwei Jahre",
+        "einmal alle drei Jahre",
+        "einmal alle fünf Jahre",
+        "Nicht entschieden",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "6. Welches Smartphone benötigen Sie?",
+      "options": [
+        "Kompakt",
+        "Durchschnitt",
+        "Groß",
+        "Nicht entschieden",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "7. Welcher Formfaktor (Design) eines Smartphones bevorzugen Sie?",
+      "options": [
+        "Standard (klassisches Smartphone)",
+        "Subtiles Smartphone",
+        "Das am meisten geschützte Smartphone",
+        "Falten Sie Smartphone (wie ein Buch)",
+        "Klappes Smartphone (schmal, wie ein Buch)",
+        "Nicht entschieden",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "8. Wie wichtig ist es für Sie, das neueste Modell zu haben?",
+      "options": [
+        "Wichtig",
+        "Egal",
+        "Nicht entschieden",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "9. Welche Farbe des Smartphones bevorzugen Sie?",
+      "options": [
+        "Schwarz",
+        "Weiß",
+        "Blau",
+        "Grau",
+        "Golden",
+        "Silber",
+        "Nicht grundlegend",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "10. Welche Version der Frontkamera (Selfie -Kameras) passt zu Ihnen?",
+      "options": [
+        "Gewöhnlich (Punkt auf dem Bildschirm)",
+        "Podkran (versteckt unter der Oberfläche des Bildschirms, was nicht sichtbar ist)",
+        "Gleiten (was das Korps verlässt)",
+        "Wie iPhone (Pony)",
+        "Nicht grundlegend",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "11. Welche Anzeige bevorzugen Sie?",
+      "options": [
+        "Amoliert",
+        "Ips",
+        "Ich verstehe nicht",
+        "Nicht grundlegend",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "12. Welche Bildschirmauflösung bevorzugen Sie?",
+      "options": [
+        "XD",
+        "Full HD",
+        "Quad Hd",
+        "Ich verstehe nicht",
+        "Nicht grundlegend",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "13. Welche Häufigkeit des Bildschirmaktualisierung arrangieren Sie?",
+      "options": [
+        "60 Hz",
+        "90 Hz",
+        "120 Hz",
+        "Ich verstehe nicht",
+        "Nicht grundlegend",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "14. Verwenden Sie oft ein Smartphone auf einer hellen Sonne?",
+      "options": [
+        "Oft",
+        "Selten",
+        "Manchmal",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "15. Wie oft planen Sie, Fotos mit einem neuen Smartphone aufzunehmen?",
+      "options": [
+        "Oft",
+        "Selten",
+        "Manchmal",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "16. Nimmst du oft ein Selfie?",
+      "options": [
+        "Oft",
+        "Selten",
+        "Ich fotografiere nicht",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "17. Machen Sie oft Fotos von Landschaften?",
+      "options": [
+        "Ja",
+        "NEIN",
+        "Ich weiß nicht",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "18. Benötigen Sie einen optischen Zoom?",
+      "options": [
+        "Oft",
+        "Selten",
+        "Normalerweise",
+        "Ich weiß nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "19. Planen Sie oft, Videos mit einem Smartphone zu drehen?",
+      "options": [
+        "Wichtig",
+        "Egal",
+        "Ich weiß nicht",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "20. Ist die Möglichkeit des Schießens im 4K -Format für Sie wichtig?",
+      "options": [
+        "Wichtig",
+        "Egal",
+        "Ich weiß nicht",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "21. Ist die Möglichkeit des Schießens im 8K -Format für Sie wichtig?",
+      "options": [
+        "Ja",
+        "NEIN",
+        "Ich weiß nicht",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "22. Bearbeiten Sie Fotos direkt auf dem Smartphone?",
+      "options": [
+        "Ja, oft",
+        "Ja, selten",
+        "Ich spiele nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "23. Wirst du ein Smartphone für Spiele benutzen?",
+      "options": [
+        "PUBG Mobile",
+        "Call of Duty: Mobile",
+        "Frauen wirken sich auf",
+        "Clash of Clans",
+        "Roblox",
+        "Einfache Spiele",
+        "Ich spiele nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "24. Welche Spiele spielen Sie auf einem Smartphone?",
+      "options": [
+        "64 GB",
+        "128 GB",
+        "256 GB",
+        "512GB",
+        "1TB",
+        "Nicht grundlegend",
+        "Ich weiß nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "25. Was ist die minimale Menge an aufgebautem Speicher?",
+      "options": [
+        "Unbedingt",
+        "Nicht grundlegend",
+        "Ich weiß nicht",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "26. Ist es wichtig, dass Sie den Speicher eines Smartphones mithilfe von MicroSD -Karten erhöhen?",
+      "options": [
+        "Ja",
+        "NEIN",
+        "Ich weiß nicht",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "27. Planen Sie, ein Smartphone im Multitasking -Modus zu verwenden (öffnen Sie gleichzeitig mehrere Anwendungen auf einem Bildschirm)?",
+      "options": [
+        "Ja",
+        "NEIN",
+        "Ich weiß nicht",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "28. Ist es wichtig, dass Sie eine drahtlose Ladung haben?",
+      "options": [
+        "Ja",
+        "NEIN",
+        "Ich weiß nicht",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "29. Ist die NFC -Unterstützung für kontaktlose Zahlungen für Sie wichtig?",
+      "options": [
+        "Ja",
+        "NEIN",
+        "Ich weiß nicht",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "30. Benötigen Sie einen Anschluss zum Anschließen von Kabelkopfhörern (3,5 mm)?",
+      "options": [
+        "Ja",
+        "NEIN",
+        "Ich weiß nicht",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "31. Benötigen Sie einen Fingerabdrucksensor?",
+      "options": [
+        "Ja",
+        "NEIN",
+        "Ich weiß nicht",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "32. Ist die Möglichkeit, ein Smartphone mit einem für Sie wichtigen Gesicht zu entsperren?",
+      "options": [
+        "Ja",
+        "NEIN",
+        "Ich weiß nicht",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "33. Ist das Schutzniveau des Smartphones vor Wasser und Staub für Sie (IP -Standard) wichtig?",
+      "options": [
+        "Ja",
+        "NEIN",
+        "Ich weiß nicht",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "34. Ist es möglich, dass Sie die immer-on-Anzeigefunktion haben?",
+      "options": [
+        "Wichtig",
+        "Egal",
+        "Ich weiß nicht",
+        "Ich verstehe nicht",
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "35. Beschreiben Sie in wenigen Worten, welches Smartphone Sie benötigen. Beispiel: „Ich spiele oft auf einem Smartphone und brauche ein Smartphone für Spiele.",
+      "options": [
+        "Ihre eigene Version der Antwort",
+        "Nächste"
+      ]
+    },
+    {
+      "text": "36. In welchem Land lebst du?",
+      "options": [
+        "Ihre eigene Version der Antwort"
+      ]
+    }
+  ],
+  "hi": [
+    {
+      "text": "1। आप एक नए स्मार्टफोन की खरीद पर खर्च करने के लिए अधिकतम राशि क्या है? (आप इस लिंक पर डॉलर के संबंध में एक सुविधाजनक मुद्रा की वर्तमान विनिमय दर का पता लगा सकते हैं <a href=\"https://www.google.com/search?q=Euro%20to%20United%20States%20Dollar&shndl=32&shem=csic&source=sh%2Fx%2Fccy%2Fob%2Fm1%2F3&kgs=7462324181829185\">Currency Converter</a>)",
+      "options": [
+        "$ 50 तक",
+        "$ 100 तक",
+        "$ 200 तक",
+        "$ 300 तक",
+        "$ 400 तक",
+        "$ 500 तक",
+        "$ 600 तक",
+        "$ 700 तक",
+        "$ 800 तक",
+        "$ 900 तक",
+        "$ 1000 तक",
+        "$ 1200 तक",
+        "$ 1,500 तक",
+        "$ 2000 तक",
+        "$ 2500 तक",
+        "$ 3000 तक",
+        "तय नहीं किया",
+        "अगला"
+      ]
+    },
+    {
+      "text": "2। स्मार्टफोन के ब्रांडों को इंगित करें जो आपके पास पहले थे और आप उनसे प्रसन्न थे।",
+      "options": [
+        "iPhone",
+        "SAMSUNG",
+        "Xiaomi",
+        "विपक्ष",
+        "विवो",
+        "Huawei",
+        "मुझे पढ़ो",
+        "पिक्सेल",
+        "वनप्लस",
+        "सोनी",
+        "टेक्नो",
+        "Infinix",
+        "तय नहीं किया",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "3। उन स्मार्टफोन के ब्रांडों को इंगित करें जो आपके पास पहले थे और आप उनसे असंतुष्ट थे।",
+      "options": [
+        "iPhone",
+        "SAMSUNG",
+        "Xiaomi",
+        "विपक्ष",
+        "विवो",
+        "Huawei",
+        "मुझे पढ़ो",
+        "पिक्सेल",
+        "वनप्लस",
+        "सोनी",
+        "टेक्नो",
+        "Infinix",
+        "तय नहीं किया",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "4। कौन सा ऑपरेटिंग सिस्टम आपके लिए अधिक समझा जा सकता है और सुविधाजनक है?",
+      "options": [
+        "iOS (iPhone)",
+        "Android (अन्य सभी स्मार्टफोन)",
+        "तय नहीं किया",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "5। आप कितनी बार स्मार्टफोन बदलते हैं?",
+      "options": [
+        "एक वर्ष में एक बार",
+        "हर दो साल में एक बार",
+        "हर तीन साल में एक बार",
+        "हर पांच साल में एक बार",
+        "तय नहीं किया",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "6। आपको किस आकार के स्मार्टफोन की आवश्यकता है?",
+      "options": [
+        "सघन",
+        "औसत",
+        "बड़ा",
+        "तय नहीं किया",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "7। स्मार्टफोन का कौन सा फॉर्म फैक्टर (डिज़ाइन) आप पसंद करते हैं?",
+      "options": [
+        "मानक (क्लासिक स्मार्टफोन)",
+        "सूक्ष्म स्मार्टफोन",
+        "सबसे संरक्षित स्मार्टफोन",
+        "फोल्डिंग स्मार्टफोन (एक किताब की तरह)",
+        "फोल्डिंग स्मार्टफोन (संकीर्ण, एक किताब की तरह)",
+        "तय नहीं किया",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "8। आपके लिए नवीनतम मॉडल होना कितना महत्वपूर्ण है?",
+      "options": [
+        "महत्वपूर्ण",
+        "कोई फर्क नहीं पड़ता",
+        "तय नहीं किया",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "9। स्मार्टफोन का कौन सा रंग आप पसंद करते हैं?",
+      "options": [
+        "काला",
+        "सफ़ेद",
+        "नीला",
+        "स्लेटी",
+        "सुनहरा",
+        "चाँदी",
+        "मौलिक नहीं",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "10। फ्रंट कैमरा (सेल्फी कैमरा) का कौन सा संस्करण आपको अधिक सूट करता है?",
+      "options": [
+        "साधारण (स्क्रीन पर बिंदु)",
+        "पॉडकरान (स्क्रीन की सतह के नीचे छिपा हुआ, जो दिखाई नहीं देता है)",
+        "फिसलने (जो कोर छोड़ता है)",
+        "जैसे iPhone (बैंग्स)",
+        "मौलिक नहीं",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "11। आप किस प्रदर्शन को पसंद करते हैं?",
+      "options": [
+        "अमोल्ड",
+        "अटकलें",
+        "मुझे समझ नहीं आ रहा है",
+        "मौलिक नहीं",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "12। आप किस स्क्रीन रिज़ॉल्यूशन को पसंद करते हैं?",
+      "options": [
+        "एक्सडी",
+        "पूर्ण एचडी",
+        "क्वाड एचडी",
+        "मुझे समझ नहीं आ रहा है",
+        "मौलिक नहीं",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "13। स्क्रीन अपडेट की क्या आवृत्ति आपको व्यवस्थित करेगी?",
+      "options": [
+        "60 हर्ट्ज",
+        "90 हर्ट्ज",
+        "120 हर्ट्ज",
+        "मुझे समझ नहीं आ रहा है",
+        "मौलिक नहीं",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "14। क्या आप अक्सर एक उज्ज्वल सूरज पर स्मार्टफोन का उपयोग करते हैं?",
+      "options": [
+        "अक्सर",
+        "कभी-कभार",
+        "कभी-कभी",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "15। आप कितनी बार नए स्मार्टफोन का उपयोग करके फ़ोटो लेने की योजना बनाते हैं?",
+      "options": [
+        "अक्सर",
+        "कभी-कभार",
+        "कभी-कभी",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "16। क्या आप अक्सर एक सेल्फी लेते हैं?",
+      "options": [
+        "अक्सर",
+        "कभी-कभार",
+        "मैं तस्वीर नहीं करता",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "17। क्या आप अक्सर परिदृश्य की तस्वीरें लेते हैं?",
+      "options": [
+        "हाँ",
+        "नहीं",
+        "पता नहीं",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "18। क्या आपको एक ऑप्टिकल ज़ूम की आवश्यकता है?",
+      "options": [
+        "अक्सर",
+        "कभी-कभार",
+        "आम तौर पर",
+        "पता नहीं",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "19। क्या आप अक्सर स्मार्टफोन का उपयोग करके वीडियो शूट करने की योजना बनाते हैं?",
+      "options": [
+        "महत्वपूर्ण",
+        "कोई फर्क नहीं पड़ता",
+        "पता नहीं",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "20। क्या आपके लिए 4K प्रारूप में शूटिंग की संभावना है?",
+      "options": [
+        "महत्वपूर्ण",
+        "कोई फर्क नहीं पड़ता",
+        "पता नहीं",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "21। क्या आपके लिए महत्वपूर्ण 8K प्रारूप में शूटिंग की संभावना है?",
+      "options": [
+        "हाँ",
+        "नहीं",
+        "पता नहीं",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "22। क्या आप स्मार्टफोन पर सही फ़ोटो संपादित करते हैं?",
+      "options": [
+        "हां, अक्सर",
+        "हाँ, शायद ही कभी",
+        "मैं नहीं खेलता",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "23। क्या आप गेम के लिए स्मार्टफोन का उपयोग करने जा रहे हैं?",
+      "options": [
+        "पबग मोबाइल",
+        "ड्यूटी की कॉल: मोबाइल",
+        "महिला प्रभाव",
+        "गोत्र संघर्ष",
+        "रोबॉक्स",
+        "सरल खेल",
+        "मैं नहीं खेलता",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "24। आप स्मार्टफोन पर कौन से खेल खेलते हैं?",
+      "options": [
+        "64GB",
+        "128GB",
+        "256 जीबी",
+        "512GB",
+        "1TB",
+        "मौलिक नहीं",
+        "पता नहीं",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "25। निर्मित -मेमोरी की न्यूनतम राशि क्या है?",
+      "options": [
+        "अनिवार्य रूप से",
+        "मौलिक नहीं",
+        "पता नहीं",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "26। क्या आपके लिए माइक्रोएसडी कार्ड का उपयोग करके स्मार्टफोन की मेमोरी बढ़ाना महत्वपूर्ण है?",
+      "options": [
+        "हाँ",
+        "नहीं",
+        "पता नहीं",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "27। क्या आप मल्टीटास्किंग मोड में स्मार्टफोन का उपयोग करने की योजना बना रहे हैं (एक ही समय में एक स्क्रीन पर कई एप्लिकेशन खोलें)?",
+      "options": [
+        "हाँ",
+        "नहीं",
+        "पता नहीं",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "28। क्या आपके लिए वायरलेस चार्जिंग होना महत्वपूर्ण है?",
+      "options": [
+        "हाँ",
+        "नहीं",
+        "पता नहीं",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "29। क्या आपके लिए महत्वपूर्ण भुगतान के लिए NFC समर्थन महत्वपूर्ण है?",
+      "options": [
+        "हाँ",
+        "नहीं",
+        "पता नहीं",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "30। क्या आपको वायर्ड हेडफ़ोन (3.5 मिमी) को जोड़ने के लिए एक कनेक्टर की आवश्यकता है?",
+      "options": [
+        "हाँ",
+        "नहीं",
+        "पता नहीं",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "31। क्या आपको फिंगरप्रिंट सेंसर की आवश्यकता है?",
+      "options": [
+        "हाँ",
+        "नहीं",
+        "पता नहीं",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "32। क्या आपके लिए महत्वपूर्ण चेहरे के साथ स्मार्टफोन को अनलॉक करने की संभावना है?",
+      "options": [
+        "हाँ",
+        "नहीं",
+        "पता नहीं",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "33। क्या आपके लिए (आईपी मानक) के लिए पानी और धूल से स्मार्टफोन की सुरक्षा का स्तर क्या है?",
+      "options": [
+        "हाँ",
+        "नहीं",
+        "पता नहीं",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "34। क्या आपके लिए हमेशा-ऑन डिस्प्ले फ़ंक्शन होना संभव है?",
+      "options": [
+        "महत्वपूर्ण",
+        "कोई फर्क नहीं पड़ता",
+        "पता नहीं",
+        "मुझे समझ नहीं आ रहा है",
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "35। कुछ शब्दों में, वर्णन करें कि आपको किस स्मार्टफोन की आवश्यकता है। उदाहरण: \"मैं अक्सर एक स्मार्टफोन पर खेलता हूं और मुझे गेम के लिए एक स्मार्टफोन की आवश्यकता होती है\", \"मैं मैनीक्योर का एक मास्टर हूं, और मुझे अपने इंस्टाग्राम का नेतृत्व करने के लिए एक अच्छे कैमरे के साथ एक स्मार्टफोन की आवश्यकता है\"",
+      "options": [
+        "उत्तर का अपना संस्करण",
+        "अगला"
+      ]
+    },
+    {
+      "text": "36. आप किस देश में रहते हैं?",
+      "options": [
+        "उत्तर का अपना संस्करण"
+      ]
+    }
+  ],
+  "ja": [
+    {
+      "text": "1.新しいスマートフォンの購入に費やす準備ができている最大額はどれくらいですか？ このリンクのドルに関連して、便利な通貨の現在の為替レートを知ることができます<a href=\"https://www.google.com/search?q=Euro%20to%20United%20States%20Dollar&shndl=32&shem=csic&source=sh%2Fx%2Fccy%2Fob%2Fm1%2F3&kgs=7462324181829185\">Currency Converter</a>",
+      "options": [
+        "最大50ドル",
+        "最大100ドル",
+        "最大200ドル",
+        "最大300ドル",
+        "最大400ドル",
+        "最大500ドル",
+        "最大600ドル",
+        "最大700ドル",
+        "最大800ドル",
+        "最大900ドル",
+        "最大1000ドル",
+        "最大1200ドル",
+        "最大1,500ドル",
+        "最大2000ドル",
+        "最大2500ドル",
+        "最大3000ドル",
+        "決定されていません",
+        "次"
+      ]
+    },
+    {
+      "text": "2。以前に持っていたスマートフォンのブランドを示して、それらに満足しています。",
+      "options": [
+        "iPhone",
+        "サムスン",
+        "Xiaomi",
+        "oppo",
+        "vivo",
+        "Huawei",
+        "レルメ",
+        "ピクセル",
+        "oneplus",
+        "ソニー",
+        "Tecno",
+        "Infinix",
+        "決定されていません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "3.以前に持っていたスマートフォンのブランドを示し、それらに不満を抱いたままでした。",
+      "options": [
+        "iPhone",
+        "サムスン",
+        "Xiaomi",
+        "oppo",
+        "vivo",
+        "Huawei",
+        "レルメ",
+        "ピクセル",
+        "oneplus",
+        "ソニー",
+        "Tecno",
+        "Infinix",
+        "決定されていません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "4.どのオペレーティングシステムがより理解しやすく、あなたにとって便利ですか？",
+      "options": [
+        "iOS（iPhone）",
+        "Android（他のすべてのスマートフォン）",
+        "決定されていません",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "5.スマートフォンをどのくらいの頻度で交換しますか？",
+      "options": [
+        "年に一度",
+        "2年ごとに1回",
+        "3年ごとに1回",
+        "5年ごとに1回",
+        "決定されていません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "6.どのサイズのスマートフォンが必要ですか？",
+      "options": [
+        "コンパクト",
+        "平均",
+        "大きい",
+        "決定されていません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "7.スマートフォンのフォームファクター（デザイン）が好きですか？",
+      "options": [
+        "標準（クラシックスマートフォン）",
+        "微妙なスマートフォン",
+        "最も保護されているスマートフォン",
+        "折り畳みスマートフォン（本のような）",
+        "折りたたみスマートフォン（狭い、本のように）",
+        "決定されていません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "8。最新のモデルを持つことはどれほど重要ですか？",
+      "options": [
+        "重要",
+        "関係ない",
+        "決定されていません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "9.スマートフォンの色は何ですか？",
+      "options": [
+        "黒",
+        "白",
+        "青",
+        "グレー",
+        "ゴールデン",
+        "銀",
+        "基本ではありません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "10.フロントカメラ（セルフィーカメラ）のバージョンはあなたにもっと適していますか？",
+      "options": [
+        "普通（画面上のポイント）",
+        "Podkran（画面の表面の下に隠されている、見えない）",
+        "スライド（軍団を離れる）",
+        "iPhoneのように（前髪）",
+        "基本ではありません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "11。どのようなディスプレイが好きですか？",
+      "options": [
+        "AMOLED",
+        "IPS",
+        "理解できません",
+        "基本ではありません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "12。どのような画面解像度が好きですか？",
+      "options": [
+        "XD",
+        "フルHD",
+        "Quad HD",
+        "理解できません",
+        "基本ではありません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "13.画面の更新の頻度はあなたを手配しますか？",
+      "options": [
+        "60 Hz",
+        "90 Hz",
+        "120 Hz",
+        "理解できません",
+        "基本ではありません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "14。明るい太陽の上でスマートフォンをよく使用していますか？",
+      "options": [
+        "頻繁",
+        "めったに",
+        "時々",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "15.新しいスマートフォンを使用して写真を撮る頻度はどれくらいですか？",
+      "options": [
+        "頻繁",
+        "めったに",
+        "時々",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "16.あなたはしばしば自撮りをしますか？",
+      "options": [
+        "頻繁",
+        "めったに",
+        "写真はありません",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "17。頻繁に風景の写真を撮りますか？",
+      "options": [
+        "はい",
+        "いいえ",
+        "わからない",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "18。光学ズームが必要ですか？",
+      "options": [
+        "頻繁",
+        "めったに",
+        "いつもの",
+        "わからない",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "19。スマートフォンを使用してビデオを撮影する予定ですか？",
+      "options": [
+        "重要",
+        "関係ない",
+        "わからない",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "20。4K形式で撮影する可能性はあなたにとって重要ですか？",
+      "options": [
+        "重要",
+        "関係ない",
+        "わからない",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "21。8K形式で撮影する可能性はあなたにとって重要ですか？",
+      "options": [
+        "はい",
+        "いいえ",
+        "わからない",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "22。スマートフォンで写真を編集していますか？",
+      "options": [
+        "はい、よく",
+        "はい、まれです",
+        "私は遊んでいません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "23。ゲームにスマートフォンを使用しますか？",
+      "options": [
+        "Pubgモバイル",
+        "コールオブデューティ：モバイル",
+        "女性が衝撃を与えます",
+        "クランの衝突",
+        "Roblox",
+        "簡単なゲーム",
+        "私は遊んでいません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "24.スマートフォンでどのゲームをプレイしていますか？",
+      "options": [
+        "64GB",
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB",
+        "基本ではありません",
+        "わからない",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "25。構築されたメモリの最小量はいくらですか？",
+      "options": [
+        "必然的に",
+        "基本ではありません",
+        "わからない",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "26。MicroSDカードを使用してスマートフォンのメモリを増やすことが重要ですか？",
+      "options": [
+        "はい",
+        "いいえ",
+        "わからない",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "27。マルチタスクモードでスマートフォンを使用する予定はありますか（1つの画面で複数のアプリケーションを同時に開く）？",
+      "options": [
+        "はい",
+        "いいえ",
+        "わからない",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "28。ワイヤレス充電を行うことが重要ですか？",
+      "options": [
+        "はい",
+        "いいえ",
+        "わからない",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "29。非接触型の支払いに対するNFCのサポートはあなたにとって重要ですか？",
+      "options": [
+        "はい",
+        "いいえ",
+        "わからない",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "30.有線ヘッドフォン（3.5 mm）を接続するためのコネクタが必要ですか？",
+      "options": [
+        "はい",
+        "いいえ",
+        "わからない",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "31.指紋センサーが必要ですか？",
+      "options": [
+        "はい",
+        "いいえ",
+        "わからない",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "32。顔が重要なスマートフォンを解き放つ可能性はありますか？",
+      "options": [
+        "はい",
+        "いいえ",
+        "わからない",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "33。水とほこりからのスマートフォンの保護レベルはあなたにとって重要ですか（IP標準）？",
+      "options": [
+        "はい",
+        "いいえ",
+        "わからない",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "34。常にオンになっているディスプレイ機能を持つことは可能ですか？",
+      "options": [
+        "重要",
+        "関係ない",
+        "わからない",
+        "理解できません",
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "35。いくつかの言葉で、必要なスマートフォンを説明してください。例：「私はよくスマートフォンで再生し、ゲームにスマートフォンが必要です」、「私はマニキュアのマスターであり、Instagramをリードするのに良いカメラを備えたスマートフォンが必要です」",
+      "options": [
+        "あなた自身のバージョンの答え",
+        "次"
+      ]
+    },
+    {
+      "text": "36. あなたはどの国に住んでいますか？",
+      "options": [
+        "あなた自身のバージョンの答え"
+      ]
+    }
+  ],
+  "ko": [
+    {
+      "text": "1. 새 스마트 폰 구매에 지출 할 준비가 된 최대 금액은 얼마입니까? 이 링크에서 달러와 관련하여 편리한 통화의 현재 환율을 찾을 수 있습니다 <a href=\"https://www.google.com/search?q=Euro%20to%20United%20States%20Dollar&shndl=32&shem=csic&source=sh%2Fx%2Fccy%2Fob%2Fm1%2F3&kgs=7462324181829185\">Currency Converter</a>",
+      "options": [
+        "최대 $ 50",
+        "최대 $ 100",
+        "최대 $ 200",
+        "최대 $ 300",
+        "최대 $ 400",
+        "최대 $ 500",
+        "최대 $ 600",
+        "최대 $ 700",
+        "최대 $ 800",
+        "최대 $ 900",
+        "최대 $ 1000",
+        "최대 $ 1200",
+        "최대 $ 1,500",
+        "최대 $ 2000",
+        "최대 $ 2500",
+        "최대 $ 3000",
+        "결정되지 않았습니다",
+        "다음"
+      ]
+    },
+    {
+      "text": "2. 이전에 가지고 있던 스마트 폰 브랜드를 나타내고 당신은 그들에게 만족했음을 나타냅니다.",
+      "options": [
+        "iPhone",
+        "삼성",
+        "Xiaomi",
+        "OPPO",
+        "생체",
+        "화웨이",
+        "영역",
+        "픽셀",
+        "OnePlus",
+        "소니",
+        "Tecno",
+        "Infinix",
+        "결정되지 않았습니다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "3. 이전에 가지고 있었던 스마트 폰 브랜드를 나타내고 당신은 그들에 대해 불만족스럽게 유지했습니다.",
+      "options": [
+        "iPhone",
+        "삼성",
+        "Xiaomi",
+        "OPPO",
+        "생체",
+        "화웨이",
+        "영역",
+        "픽셀",
+        "OnePlus",
+        "소니",
+        "Tecno",
+        "Infinix",
+        "결정되지 않았습니다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "4. 어떤 운영 체제가 당신에게 더 이해하기 쉽고 편리합니까?",
+      "options": [
+        "iOS (iPhone)",
+        "Android (다른 모든 스마트 폰)",
+        "결정되지 않았습니다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "5. 스마트 폰을 얼마나 자주 변경합니까?",
+      "options": [
+        "일년에 한 번",
+        "2 년마다",
+        "3 년마다 한 번",
+        "5 년마다 한 번",
+        "결정되지 않았습니다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "6. 어떤 크기의 스마트 폰이 필요합니까?",
+      "options": [
+        "콤팩트",
+        "평균",
+        "큰",
+        "결정되지 않았습니다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "7. 스마트 폰의 어떤 폼 팩터 (디자인)를 선호합니까?",
+      "options": [
+        "표준 (클래식 스마트 폰)",
+        "미묘한 스마트 폰",
+        "가장 보호 된 스마트 폰",
+        "접이식 스마트 폰 (책처럼)",
+        "접이식 스마트 폰 (좁은 책처럼)",
+        "결정되지 않았습니다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "8. 최신 모델을 갖는 것이 얼마나 중요합니까?",
+      "options": [
+        "중요한",
+        "중요하지 않습니다",
+        "결정되지 않았습니다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "9. 스마트 폰의 어떤 색을 선호합니까?",
+      "options": [
+        "검은색",
+        "하얀색",
+        "파란색",
+        "회색",
+        "황금",
+        "은",
+        "기본이 아닙니다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "10. 어떤 버전의 전면 카메라 (셀카 카메라)가 더 당신에게 더 적합합니까?",
+      "options": [
+        "일반 (화면의 점)",
+        "Podkran (화면 표면 아래에 숨겨져 있으며 보이지 않습니다)",
+        "슬라이딩 (군단을 떠난)",
+        "iPhone (앞머리)처럼",
+        "기본이 아닙니다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "11. 어떤 디스플레이를 선호합니까?",
+      "options": [
+        "amoled",
+        "ips",
+        "나는 이해하지 못한다",
+        "기본이 아닙니다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "12. 어떤 화면 해상도를 선호합니까?",
+      "options": [
+        "XD",
+        "전체 HD",
+        "쿼드 HD",
+        "나는 이해하지 못한다",
+        "기본이 아닙니다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "13. 화면 업데이트의 빈도는 어떤 빈도로 배열됩니까?",
+      "options": [
+        "60 Hz",
+        "90 Hz",
+        "120 Hz",
+        "나는 이해하지 못한다",
+        "기본이 아닙니다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "14. 당신은 종종 밝은 태양에 스마트 폰을 사용합니까?",
+      "options": [
+        "자주",
+        "드물게",
+        "때때로",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "15. 새 스마트 폰을 사용하여 얼마나 자주 사진을 찍을 계획입니까?",
+      "options": [
+        "자주",
+        "드물게",
+        "때때로",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "16. 자주 셀카를 찍습니까?",
+      "options": [
+        "자주",
+        "드물게",
+        "나는 사진을 찍지 않는다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "17. 종종 풍경 사진을 찍습니까?",
+      "options": [
+        "예",
+        "아니요",
+        "모릅니다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "18. 광학 줌이 필요합니까?",
+      "options": [
+        "자주",
+        "드물게",
+        "대개",
+        "모릅니다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "19. 스마트 폰을 사용하여 비디오를 촬영할 계획입니까?",
+      "options": [
+        "중요한",
+        "중요하지 않습니다",
+        "모릅니다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "20. 4K 형식으로 촬영할 가능성이 중요합니까?",
+      "options": [
+        "중요한",
+        "중요하지 않습니다",
+        "모릅니다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "21. 8K 형식으로 촬영할 가능성이 중요합니까?",
+      "options": [
+        "예",
+        "아니요",
+        "모릅니다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "22. 스마트 폰에서 바로 사진을 편집합니까?",
+      "options": [
+        "예, 종종",
+        "예, 드물게",
+        "나는 놀지 않는다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "23. 게임용 스마트 폰을 사용 하시겠습니까?",
+      "options": [
+        "Pubg 모바일",
+        "Call of Duty : 모바일",
+        "여성의 영향",
+        "클랜의 충돌",
+        "로블록스",
+        "간단한 게임",
+        "나는 놀지 않는다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "24. 스마트 폰에서 어떤 게임을 플레이합니까?",
+      "options": [
+        "64GB",
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB",
+        "기본이 아닙니다",
+        "모릅니다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "25. 메모리의 최소 금액은 얼마입니까?",
+      "options": [
+        "반드시",
+        "기본이 아닙니다",
+        "모릅니다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "26. MicroSD 카드를 사용하여 스마트 폰의 메모리를 높이는 것이 중요합니까?",
+      "options": [
+        "예",
+        "아니요",
+        "모릅니다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "27. 멀티 태스킹 모드에서 스마트 폰을 사용할 계획입니까 (동시에 한 화면에서 여러 응용 프로그램을 열면)?",
+      "options": [
+        "예",
+        "아니요",
+        "모릅니다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "28. 무선 충전을하는 것이 중요합니까?",
+      "options": [
+        "예",
+        "아니요",
+        "모릅니다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "29. 비접촉식 지불에 대한 NFC 지원이 중요합니까?",
+      "options": [
+        "예",
+        "아니요",
+        "모릅니다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "30. 유선 헤드폰 (3.5mm)을 연결하기위한 커넥터가 필요합니까?",
+      "options": [
+        "예",
+        "아니요",
+        "모릅니다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "31. 지문 센서가 필요합니까?",
+      "options": [
+        "예",
+        "아니요",
+        "모릅니다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "32. 얼굴로 스마트 폰을 잠금 해제 할 가능성이 있습니까?",
+      "options": [
+        "예",
+        "아니요",
+        "모릅니다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "33. 물과 먼지로부터 스마트 폰의 보호 수준이 중요합니까 (IP 표준)?",
+      "options": [
+        "예",
+        "아니요",
+        "모릅니다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "34. 항상 온일한 디스플레이 기능을 가질 수 있습니까?",
+      "options": [
+        "중요한",
+        "중요하지 않습니다",
+        "모릅니다",
+        "나는 이해하지 못한다",
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "35. 몇 마디로 필요한 스마트 폰을 설명하십시오. 예 :“저는 종종 스마트 폰에서 플레이하고 게임 용 스마트 폰이 필요합니다.”,“매니큐어의 마스터이며, 인스 타 그램을 이끌어내는 좋은 카메라가있는 스마트 폰이 필요합니다.”",
+      "options": [
+        "자신만의 답변 버전",
+        "다음"
+      ]
+    },
+    {
+      "text": "36. 어느 나라에 거주하고 있습니까?",
+      "options": [
+        "자신만의 답변 버전"
+      ]
+    }
+  ],
+  "pt": [
+    {
+      "text": "1. Qual é o valor máximo que você está pronto para gastar na compra de um novo smartphone? Você pode descobrir a taxa de câmbio atual de uma moeda conveniente em relação ao dólar neste link <a href=\"https://www.google.com/search?q=Euro%20to%20United%20States%20Dollar&shndl=32&shem=csic&source=sh%2Fx%2Fccy%2Fob%2Fm1%2F3&kgs=7462324181829185\">Currency Converter</a>",
+      "options": [
+        "até US $ 50",
+        "até US $ 100",
+        "até US $ 200",
+        "até US $ 300",
+        "até US $ 400",
+        "até US $ 500",
+        "até US $ 600",
+        "até US $ 700",
+        "até US $ 800",
+        "até US $ 900",
+        "até US $ 1000",
+        "até US $ 1200",
+        "até US $ 1.500",
+        "até US $ 2000",
+        "até US $ 2500",
+        "até US $ 3000",
+        "Não decidido",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "2. Indique as marcas de smartphones que você tinha antes e você ficou satisfeito com eles.",
+      "options": [
+        "iPhone",
+        "Samsung",
+        "Xiaomi",
+        "OPPO",
+        "Vivo",
+        "Huawei",
+        "Realme",
+        "Pixel",
+        "OnePlus",
+        "Sony",
+        "Tecno",
+        "Infinix",
+        "Não decidido",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "3. Indique as marcas de smartphones que você tinha antes e você permaneceu insatisfeito com eles.",
+      "options": [
+        "iPhone",
+        "Samsung",
+        "Xiaomi",
+        "OPPO",
+        "Vivo",
+        "Huawei",
+        "Realme",
+        "Pixel",
+        "OnePlus",
+        "Sony",
+        "Tecno",
+        "Infinix",
+        "Não decidido",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "4. Qual sistema operacional é mais compreensível e conveniente para você?",
+      "options": [
+        "iOS (iPhone)",
+        "Android (todos os outros smartphones)",
+        "Não decidido",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "5. Com que frequência você muda o smartphone?",
+      "options": [
+        "Uma vez por ano",
+        "uma vez a cada dois anos",
+        "uma vez a cada três anos",
+        "uma vez a cada cinco anos",
+        "Não decidido",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "6. Qual é o tamanho do smartphone?",
+      "options": [
+        "Compactar",
+        "Média",
+        "Grande",
+        "Não decidido",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "7. Qual o fator de forma (design) de um smartphone você prefere?",
+      "options": [
+        "Padrão (smartphone clássico)",
+        "Smartphone sutil",
+        "O smartphone mais protegido",
+        "Smartphone dobrável (como um livro)",
+        "Smartphone dobrável (estreito, como um livro)",
+        "Não decidido",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "8. Quão importante é para você ter o modelo mais novo?",
+      "options": [
+        "Importante",
+        "Não importa",
+        "Não decidido",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "9. Qual a cor do smartphone você prefere?",
+      "options": [
+        "Preto",
+        "Branco",
+        "Azul",
+        "Cinza",
+        "Dourado",
+        "Prata",
+        "Não fundamental",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "10. Qual versão da câmera frontal (câmeras selfie) combina mais com você?",
+      "options": [
+        "Ordinário (ponto na tela)",
+        "Podkran (escondido sob a superfície da tela, que não é visível)",
+        "Deslizamento (que sai do corpo)",
+        "Como iPhone (franja)",
+        "Não fundamental",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "11. Que tela você prefere?",
+      "options": [
+        "AMOLED",
+        "IPS",
+        "Eu não entendi",
+        "Não fundamental",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "12. Que resolução de tela você prefere?",
+      "options": [
+        "XD",
+        "Full HD",
+        "Quad HD",
+        "Eu não entendi",
+        "Não fundamental",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "13. Qual a frequência da atualização da tela o marcará?",
+      "options": [
+        "60 Hz",
+        "90 Hz",
+        "120 Hz",
+        "Eu não entendi",
+        "Não fundamental",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "14. Você costuma usar um smartphone em um sol brilhante?",
+      "options": [
+        "Muitas vezes",
+        "Raramente",
+        "Às vezes",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "15. Com que frequência você planeja tirar fotos usando um novo smartphone?",
+      "options": [
+        "Muitas vezes",
+        "Raramente",
+        "Às vezes",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "16. Você costuma tirar uma selfie?",
+      "options": [
+        "Muitas vezes",
+        "Raramente",
+        "Eu não fotografe",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "17. Você costuma tirar fotos de paisagens?",
+      "options": [
+        "Sim",
+        "Não",
+        "Não sei",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "18. Você precisa de um zoom óptico?",
+      "options": [
+        "Muitas vezes",
+        "Raramente",
+        "Geralmente",
+        "Não sei",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "19. Você geralmente planeja gravar vídeo usando um smartphone?",
+      "options": [
+        "Importante",
+        "Não importa",
+        "Não sei",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "20. A possibilidade de fotografar em formato 4K é importante para você?",
+      "options": [
+        "Importante",
+        "Não importa",
+        "Não sei",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "21. A possibilidade de fotografar em formato 8K é importante para você?",
+      "options": [
+        "Sim",
+        "Não",
+        "Não sei",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "22. Você edita fotos diretamente no smartphone?",
+      "options": [
+        "Sim, muitas vezes",
+        "Sim, raramente",
+        "Eu não jogo",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "23. Você vai usar um smartphone para jogos?",
+      "options": [
+        "PUBG Mobile",
+        "Call of Duty: Mobile",
+        "Mulheres impactam",
+        "Clash de clãs",
+        "Roblox",
+        "Jogos simples",
+        "Eu não jogo",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "24. Quais jogos você joga em um smartphone?",
+      "options": [
+        "64 GB",
+        "128 GB",
+        "256 GB",
+        "512 GB",
+        "1 TB",
+        "Não fundamental",
+        "Não sei",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "25. Qual é a quantidade mínima de memória construída?",
+      "options": [
+        "Necessariamente",
+        "Não fundamental",
+        "Não sei",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "26. É importante aumentar a memória de um smartphone usando cartões microSD?",
+      "options": [
+        "Sim",
+        "Não",
+        "Não sei",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "27. Você planeja usar um smartphone no modo multitarefa (abra vários aplicativos em uma tela ao mesmo tempo)?",
+      "options": [
+        "Sim",
+        "Não",
+        "Não sei",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "28. É importante que você tenha um carregamento sem fio?",
+      "options": [
+        "Sim",
+        "Não",
+        "Não sei",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "29. O suporte da NFC para pagamentos sem contato é importante para você?",
+      "options": [
+        "Sim",
+        "Não",
+        "Não sei",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "30. Você precisa de um conector para conectar fones de ouvido com fio (3,5 mm)?",
+      "options": [
+        "Sim",
+        "Não",
+        "Não sei",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "31. Você precisa de um sensor de impressão digital?",
+      "options": [
+        "Sim",
+        "Não",
+        "Não sei",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "32. A possibilidade de desbloquear um smartphone com um rosto é importante para você?",
+      "options": [
+        "Sim",
+        "Não",
+        "Não sei",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "33. O nível de proteção do smartphone é importante para você (padrão IP)?",
+      "options": [
+        "Sim",
+        "Não",
+        "Não sei",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "34. É possível que você tenha a função de exibição sempre ativa?",
+      "options": [
+        "Importante",
+        "Não importa",
+        "Não sei",
+        "Eu não entendi",
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "35. Em poucas palavras, descreva o smartphone que você precisa. Exemplo: “Costumo jogar em um smartphone e preciso de um smartphone para jogos”, “Sou um mestre da manicure e preciso de um smartphone com uma boa câmera para liderar meu Instagram”",
+      "options": [
+        "Sua própria versão da resposta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "36. Em qual país você mora?",
+      "options": [
+        "Sua própria versão da resposta"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "text": "1. ¿Cuál es la cantidad máxima que está listo para gastar en la compra de un nuevo teléfono inteligente? Puede encontrar el tipo de cambio actual de una moneda conveniente en relación con el dólar en este enlace <a href=\"https://www.google.com/search?q=Euro%20to%20United%20States%20Dollar&shndl=32&shem=csic&source=sh%2Fx%2Fccy%2Fob%2Fm1%2F3&kgs=7462324181829185\">Currency Converter</a>",
+      "options": [
+        "hasta $ 50",
+        "hasta $ 100",
+        "hasta $ 200",
+        "hasta $ 300",
+        "hasta $ 400",
+        "hasta $ 500",
+        "hasta $ 600",
+        "hasta $ 700",
+        "hasta $ 800",
+        "hasta $ 900",
+        "hasta $ 1000",
+        "hasta $ 1200",
+        "hasta $ 1,500",
+        "hasta $ 2000",
+        "hasta $ 2500",
+        "hasta $ 3000",
+        "No decidido",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "2. Indique las marcas de teléfonos inteligentes que tenía antes y estaba satisfecho con ellos.",
+      "options": [
+        "iPhone",
+        "Samsung",
+        "Xiaomi",
+        "Opto",
+        "Vivo",
+        "Huawei",
+        "Reinicio",
+        "Píxel",
+        "OnePlus",
+        "Sony",
+        "Tecno",
+        "Infinix",
+        "No decidido",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "3. Indique las marcas de teléfonos inteligentes que tenía antes y permaneció insatisfecho con ellos.",
+      "options": [
+        "iPhone",
+        "Samsung",
+        "Xiaomi",
+        "Opto",
+        "Vivo",
+        "Huawei",
+        "Reinicio",
+        "Píxel",
+        "OnePlus",
+        "Sony",
+        "Tecno",
+        "Infinix",
+        "No decidido",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "4. ¿Qué sistema operativo es más comprensible y conveniente para usted?",
+      "options": [
+        "iOS (iPhone)",
+        "Android (todos los demás teléfonos inteligentes)",
+        "No decidido",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "5. ¿Con qué frecuencia cambia el teléfono inteligente?",
+      "options": [
+        "Una vez al año",
+        "Una vez cada dos años",
+        "Una vez cada tres años",
+        "Una vez cada cinco años",
+        "No decidido",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "6. ¿Qué tamaño de teléfono inteligente necesitas?",
+      "options": [
+        "Compacto",
+        "Promedio",
+        "Grande",
+        "No decidido",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "7. ¿Qué factor de forma (diseño) de un teléfono inteligente prefiere?",
+      "options": [
+        "Estándar (teléfono inteligente clásico)",
+        "Teléfono inteligente sutil",
+        "El teléfono inteligente más protegido",
+        "Teléfono inteligente plegable (como un libro)",
+        "Teléfono inteligente plegable (estrecho, como un libro)",
+        "No decidido",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "8. ¿Qué tan importante es para usted tener el modelo más nuevo?",
+      "options": [
+        "Importante",
+        "No importa",
+        "No decidido",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "9. ¿Qué color del teléfono inteligente prefieres?",
+      "options": [
+        "Negro",
+        "Blanco",
+        "Azul",
+        "Gris",
+        "Dorado",
+        "Plata",
+        "No fundamental",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "10. ¿Qué versión de la cámara frontal (cámaras selfie) te conviene más?",
+      "options": [
+        "Ordinario (punto en la pantalla)",
+        "Podkran (oculto debajo de la superficie de la pantalla, que no es visible)",
+        "Deslizamiento (que deja el cuerpo)",
+        "Como iPhone (Bangs)",
+        "No fundamental",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "11. ¿Qué pantalla prefieres?",
+      "options": [
+        "Amolado",
+        "IPS",
+        "No comprendo",
+        "No fundamental",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "12. ¿Qué resolución de pantalla prefieres?",
+      "options": [
+        "Xd",
+        "Full HD",
+        "Quad HD",
+        "No comprendo",
+        "No fundamental",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "13. ¿Qué frecuencia de la actualización de la pantalla lo organizará?",
+      "options": [
+        "60 Hz",
+        "90 Hz",
+        "120 Hz",
+        "No comprendo",
+        "No fundamental",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "14. ¿A menudo usa un teléfono inteligente con un sol brillante?",
+      "options": [
+        "A menudo",
+        "Casi nunca",
+        "A veces",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "15. ¿Con qué frecuencia planea tomar fotos usando un nuevo teléfono inteligente?",
+      "options": [
+        "A menudo",
+        "Casi nunca",
+        "A veces",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "16. ¿A menudo te tomas una selfie?",
+      "options": [
+        "A menudo",
+        "Casi nunca",
+        "No fotografío",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "17. ¿A menudo tomas fotos de paisajes?",
+      "options": [
+        "Sí",
+        "No",
+        "No sé",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "18. ¿Necesitas un zoom óptico?",
+      "options": [
+        "A menudo",
+        "Casi nunca",
+        "Generalmente",
+        "No sé",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "19. ¿A menudo planeas filmar video usando un teléfono inteligente?",
+      "options": [
+        "Importante",
+        "No importa",
+        "No sé",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "20. ¿Es importante la posibilidad de disparar en formato 4K?",
+      "options": [
+        "Importante",
+        "No importa",
+        "No sé",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "21. ¿Es importante para usted la posibilidad de disparar en formato 8K?",
+      "options": [
+        "Sí",
+        "No",
+        "No sé",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "22. ¿Editas fotos directamente en el teléfono inteligente?",
+      "options": [
+        "Sí, a menudo",
+        "Sí, rara vez",
+        "No juego",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "23. ¿Vas a usar un teléfono inteligente para los juegos?",
+      "options": [
+        "PUBG Mobile",
+        "Call of Duty: Mobile",
+        "Impacto de las mujeres",
+        "Choque de clanes",
+        "RaBlox",
+        "Juegos simples",
+        "No juego",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "24. ¿Qué juegos juegas en un teléfono inteligente?",
+      "options": [
+        "64 GB",
+        "128 GB",
+        "256 GB",
+        "512GB",
+        "1TB",
+        "No fundamental",
+        "No sé",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "25. ¿Cuál es la cantidad mínima de memoria construida?",
+      "options": [
+        "Necesariamente",
+        "No fundamental",
+        "No sé",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "26. ¿Es importante para usted aumentar la memoria de un teléfono inteligente usando tarjetas microSD?",
+      "options": [
+        "Sí",
+        "No",
+        "No sé",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "27. ¿Planea usar un teléfono inteligente en modo multitarea (abra varias aplicaciones en una pantalla al mismo tiempo)?",
+      "options": [
+        "Sí",
+        "No",
+        "No sé",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "28. ¿Es importante para usted tener una carga inalámbrica?",
+      "options": [
+        "Sí",
+        "No",
+        "No sé",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "29. ¿Es importante para usted el soporte de NFC para pagos sin contacto?",
+      "options": [
+        "Sí",
+        "No",
+        "No sé",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "30. ¿Necesita un conector para conectar auriculares con cable (3.5 mm)?",
+      "options": [
+        "Sí",
+        "No",
+        "No sé",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "31. ¿Necesitas un sensor de huellas digitales?",
+      "options": [
+        "Sí",
+        "No",
+        "No sé",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "32. ¿Es importante la posibilidad de desbloquear un teléfono inteligente con una cara?",
+      "options": [
+        "Sí",
+        "No",
+        "No sé",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "33. ¿Es importante el nivel de protección del teléfono inteligente del agua y el polvo (estándar de IP)?",
+      "options": [
+        "Sí",
+        "No",
+        "No sé",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "34. ¿Es posible que tenga la función de visualización siempre encendida?",
+      "options": [
+        "Importante",
+        "No importa",
+        "No sé",
+        "No comprendo",
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "35. En pocas palabras, describa qué teléfono inteligente necesita. Ejemplo: \"A menudo juego en un teléfono inteligente y necesito un teléfono inteligente para los juegos\", \"Soy un maestro de la manicura, y necesito un teléfono inteligente con una buena cámara para liderar mi Instagram\"",
+      "options": [
+        "Tu propia versión de la respuesta",
+        "Próximo"
+      ]
+    },
+    {
+      "text": "36. ¿En qué país vives?",
+      "options": [
+        "Tu propia versión de la respuesta"
+      ]
+    }
+  ],
+  "pl": [
+    {
+      "text": "1. Jaka jest maksymalna kwota, którą możesz wydać na zakup nowego smartfona? Możesz znaleźć bieżący kurs wygodnej waluty w stosunku do dolara pod tym linkiem <a href=\"https://www.google.com/search?q=Euro%20to%20United%20States%20Dollar&shndl=32&shem=csic&source=sh%2Fx%2Fccy%2Fob%2Fm1%2F3&kgs=7462324181829185\">Currency Converter</a>",
+      "options": [
+        "do 50 USD",
+        "do 100 USD",
+        "do 200 USD",
+        "do 300 USD",
+        "do 400 USD",
+        "do 500 USD",
+        "do 600 USD",
+        "do 700 USD",
+        "do 800 USD",
+        "do 900 USD",
+        "do 1000 USD",
+        "do 1200 $",
+        "do 1500 USD",
+        "do 2000 USD",
+        "do 2500 USD",
+        "do 3000 USD",
+        "Nie zdecydowano",
+        "Następny"
+      ]
+    },
+    {
+      "text": "2. Wskaż marki smartfonów, które miałeś wcześniej i byłeś z nich zadowolony.",
+      "options": [
+        "iPhone",
+        "SAMSUNG",
+        "Xiaomi",
+        "Oppo",
+        "Vivo",
+        "Huawei",
+        "Realme",
+        "Piksel",
+        "OnePlus",
+        "Sony",
+        "Tecno",
+        "Infinix",
+        "Nie zdecydowano",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "3. Wskaż marki smartfonów, które miałeś wcześniej i pozostałeś z nich niezadowolony.",
+      "options": [
+        "iPhone",
+        "SAMSUNG",
+        "Xiaomi",
+        "Oppo",
+        "Vivo",
+        "Huawei",
+        "Realme",
+        "Piksel",
+        "OnePlus",
+        "Sony",
+        "Tecno",
+        "Infinix",
+        "Nie zdecydowano",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "4. Który system operacyjny jest dla Ciebie bardziej zrozumiały i wygodny?",
+      "options": [
+        "iOS (iPhone)",
+        "Android (wszystkie inne smartfony)",
+        "Nie zdecydowano",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "5. Jak często zmieniasz smartfon?",
+      "options": [
+        "Raz w roku",
+        "Raz na dwa lata",
+        "Raz na trzy lata",
+        "Raz na pięć lat",
+        "Nie zdecydowano",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "6. Jakiego rozmiaru potrzebujesz?",
+      "options": [
+        "Kompaktowy",
+        "Przeciętny",
+        "Duży",
+        "Nie zdecydowano",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "7. Jaki wzór (projekt) smartfona wolisz?",
+      "options": [
+        "Standard (klasyczny smartfon)",
+        "Subtelny smartfon",
+        "Najbardziej chroniony smartfon",
+        "Składany smartfon (jak książka)",
+        "Składany smartfon (wąski, jak książka)",
+        "Nie zdecydowano",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "8. Jak ważne jest, aby mieć najnowszy model?",
+      "options": [
+        "Ważny",
+        "Nie ma znaczenia",
+        "Nie zdecydowano",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "9. Jaki kolor smartfona wolisz?",
+      "options": [
+        "Czarny",
+        "Biały",
+        "Niebieski",
+        "Szary",
+        "Złoty",
+        "Srebrny",
+        "Nie fundamentalne",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "10. Która wersja przedniej kamery (kamery selfie) bardziej Ci odpowiada?",
+      "options": [
+        "Zwykłe (punkt na ekranie)",
+        "Podkran (ukryty pod powierzchnią ekranu, który nie jest widoczny)",
+        "Ślizganie się (który opuszcza korpus)",
+        "Jak iPhone (grzywki)",
+        "Nie fundamentalne",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "11. Jaki wyświetlacz wolisz?",
+      "options": [
+        "Amoled",
+        "IPS",
+        "Nie rozumiem",
+        "Nie fundamentalne",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "12. Jakie rozdzielczość ekranu wolisz?",
+      "options": [
+        "XD",
+        "Full HD",
+        "Quad HD",
+        "Nie rozumiem",
+        "Nie fundamentalne",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "13. Jaka częstotliwość aktualizacji ekranu cię zorganizuje?",
+      "options": [
+        "60 Hz",
+        "90 Hz",
+        "120 Hz",
+        "Nie rozumiem",
+        "Nie fundamentalne",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "14. Czy często używasz smartfona na jasnym słońcu?",
+      "options": [
+        "Często",
+        "Rzadko",
+        "Czasami",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "15. Jak często planujesz robić zdjęcia za pomocą nowego smartfona?",
+      "options": [
+        "Często",
+        "Rzadko",
+        "Czasami",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "16. Czy często bierzesz selfie?",
+      "options": [
+        "Często",
+        "Rzadko",
+        "Nie fotografuję",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "17. Czy często robisz zdjęcia krajobrazów?",
+      "options": [
+        "Tak",
+        "NIE",
+        "Nie wiem",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "18. Czy potrzebujesz zoomu optycznego?",
+      "options": [
+        "Często",
+        "Rzadko",
+        "Zazwyczaj",
+        "Nie wiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "19. Czy często planujesz kręcić wideo za pomocą smartfona?",
+      "options": [
+        "Ważny",
+        "Nie ma znaczenia",
+        "Nie wiem",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "20. Czy możliwość strzelania w formacie 4K jest dla Ciebie ważna?",
+      "options": [
+        "Ważny",
+        "Nie ma znaczenia",
+        "Nie wiem",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "21. Czy możliwość strzelania w formacie 8k jest dla Ciebie ważna?",
+      "options": [
+        "Tak",
+        "NIE",
+        "Nie wiem",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "22. Czy edytujesz zdjęcia na smartfonie?",
+      "options": [
+        "Tak, często",
+        "Tak, rzadko",
+        "Nie gram",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "23. Czy zamierzasz użyć smartfona do gier?",
+      "options": [
+        "PUBG Mobile",
+        "Call of Duty: Mobile",
+        "Wpływ kobiet",
+        "Clash of Clans",
+        "Roblox",
+        "Proste gry",
+        "Nie gram",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "24. W jakie gry grasz na smartfonie?",
+      "options": [
+        "64 GB",
+        "128 GB",
+        "256 GB",
+        "512 GB",
+        "1TB",
+        "Nie fundamentalne",
+        "Nie wiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "25. Jaka jest minimalna ilość wbudowanej pamięci?",
+      "options": [
+        "Koniecznie",
+        "Nie fundamentalne",
+        "Nie wiem",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "26. Czy ważne jest, aby zwiększyć pamięć smartfona za pomocą kart microSD?",
+      "options": [
+        "Tak",
+        "NIE",
+        "Nie wiem",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "27. Czy planujesz używać smartfona w trybie wielozadaniowym (otwórz kilka aplikacji na jednym ekranie w tym samym czasie)?",
+      "options": [
+        "Tak",
+        "NIE",
+        "Nie wiem",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "28. Czy ważne jest, abyś miał ładowanie bezprzewodowe?",
+      "options": [
+        "Tak",
+        "NIE",
+        "Nie wiem",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "29. Czy obsługa NFC jest dla Ciebie ważna?",
+      "options": [
+        "Tak",
+        "NIE",
+        "Nie wiem",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "30. Czy potrzebujesz złącza do łączenia przewodowych słuchawek (3,5 mm)?",
+      "options": [
+        "Tak",
+        "NIE",
+        "Nie wiem",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "31. Czy potrzebujesz czujnika odcisków palców?",
+      "options": [
+        "Tak",
+        "NIE",
+        "Nie wiem",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "32. Czy możliwość odblokowania smartfona z twarzą jest dla Ciebie ważna?",
+      "options": [
+        "Tak",
+        "NIE",
+        "Nie wiem",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "33. Czy poziom ochrony smartfona przed wodą i pyłem jest dla Ciebie ważny (standard IP)?",
+      "options": [
+        "Tak",
+        "NIE",
+        "Nie wiem",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "34. Czy możesz mieć funkcję wyświetlania zawsze włączonego?",
+      "options": [
+        "Ważny",
+        "Nie ma znaczenia",
+        "Nie wiem",
+        "Nie rozumiem",
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "35. W kilku słowach opisz, jakiego smartfona potrzebujesz. Przykład: „Często gram na smartfonie i potrzebuję smartfona do gier”, „Jestem mistrzem manicure i potrzebuję smartfona z dobrym aparatem, aby poprowadzić mój Instagram”",
+      "options": [
+        "Twoja własna wersja odpowiedzi",
+        "Następny"
+      ]
+    },
+    {
+      "text": "36. W jakim kraju mieszkasz?",
+      "options": [
+        "Twoja własna wersja odpowiedzi"
+      ]
+    }
+  ],
+  "uk": [
+    {
+      "text": "1. Яка максимальна сума ви готові витратити на придбання нового смартфона? Ви можете дізнатися поточний обмінний курс зручної валюти стосовно долара за цим посиланням <a href=\"https://www.google.com/search?q=Euro%20to%20United%20States%20Dollar&shndl=32&shem=csic&source=sh%2Fx%2Fccy%2Fob%2Fm1%2F3&kgs=7462324181829185\">Currency Converter</a>",
+      "options": [
+        "До 50 доларів",
+        "До 100 доларів",
+        "До 200 доларів",
+        "До 300 доларів",
+        "До 400 доларів",
+        "До 500 доларів",
+        "До 600 доларів",
+        "До 700 доларів",
+        "До 800 доларів",
+        "До 900 доларів",
+        "До 1000 доларів",
+        "До 1200 доларів",
+        "до 1500 доларів",
+        "До 2000 доларів",
+        "До 2500 доларів",
+        "До 3000 доларів",
+        "Не вирішено",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "2. Вкажіть марки смартфонів, які ви мали раніше, і ви були задоволені ними.",
+      "options": [
+        "iPhone",
+        "Samsung",
+        "Xiaomi",
+        "Проппом",
+        "Vivo",
+        "Huawei",
+        "Царство",
+        "Піксель",
+        "Одноплавний",
+        "Соні",
+        "Текно",
+        "Інфінікс",
+        "Не вирішено",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "3. Вкажіть марки смартфонів, які ви мали раніше, і ви залишалися незадоволеними ними.",
+      "options": [
+        "iPhone",
+        "Samsung",
+        "Xiaomi",
+        "Проппом",
+        "Vivo",
+        "Huawei",
+        "Царство",
+        "Піксель",
+        "Одноплавний",
+        "Соні",
+        "Текно",
+        "Інфінікс",
+        "Не вирішено",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "4. Яка операційна система для вас більш зрозуміла та зручна?",
+      "options": [
+        "iOS (iPhone)",
+        "Android (всі інші смартфони)",
+        "Не вирішено",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "5. Як часто ви змінюєте смартфон?",
+      "options": [
+        "Раз на рік",
+        "раз на два роки",
+        "раз на три роки",
+        "раз на п’ять років",
+        "Не вирішено",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "6. Якого розміру вам потрібен смартфон?",
+      "options": [
+        "Компактний",
+        "Середній",
+        "Великий",
+        "Не вирішено",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "7. Який форм -фактор (дизайн) смартфона ви віддаєте перевагу?",
+      "options": [
+        "Стандартний (класичний смартфон)",
+        "Тонкий смартфон",
+        "Найбільш захищений смартфон",
+        "Складний смартфон (як книга)",
+        "Складний смартфон (вузький, як книга)",
+        "Не вирішено",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "8. Наскільки важливо для вас мати найновішу модель?",
+      "options": [
+        "Важливий",
+        "Не має значення",
+        "Не вирішено",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "9. Який колір смартфона ви віддаєте перевагу?",
+      "options": [
+        "Чорний",
+        "Білий",
+        "Блакитний",
+        "Сірий",
+        "Золотий",
+        "Срібний",
+        "Не фундаментальний",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "10. Яка версія передньої камери (селфі -камери) вам більше підходить?",
+      "options": [
+        "Звичайний (точка на екрані)",
+        "Подкран (прихований під поверхнею екрана, що не видно)",
+        "Ковзання (що залишає корпус)",
+        "Як iphone (чубчик)",
+        "Не фундаментальний",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "11. Який дисплей ви віддаєте перевагу?",
+      "options": [
+        "Амольований",
+        "IPS",
+        "Я не розумію",
+        "Не фундаментальний",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "12. Яку роздільну здатність екрану ви віддаєте перевагу?",
+      "options": [
+        "XD",
+        "Повний HD",
+        "Quad HD",
+        "Я не розумію",
+        "Не фундаментальний",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "13. Яка частота оновлення екрана вас влаштовує?",
+      "options": [
+        "60 Гц",
+        "90 Гц",
+        "120 Гц",
+        "Я не розумію",
+        "Не фундаментальний",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "14. Чи часто ви використовуєте смартфон на яскравому сонці?",
+      "options": [
+        "Часто",
+        "Рідко",
+        "Іноді",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "15. Як часто ви плануєте робити фотографії за допомогою нового смартфона?",
+      "options": [
+        "Часто",
+        "Рідко",
+        "Іноді",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "16. Чи часто ви берете селфі?",
+      "options": [
+        "Часто",
+        "Рідко",
+        "Я не фотографую",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "17. Чи часто ви фотографуєте пейзажі?",
+      "options": [
+        "Так",
+        "Ні",
+        "Не знаю",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "18. Вам потрібен оптичний масштаб?",
+      "options": [
+        "Часто",
+        "Рідко",
+        "Зазвичай",
+        "Не знаю",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "19. Чи часто ви плануєте знімати відео за допомогою смартфона?",
+      "options": [
+        "Важливий",
+        "Не має значення",
+        "Не знаю",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "20. Чи важлива можливість зйомки у форматі 4K для вас?",
+      "options": [
+        "Важливий",
+        "Не має значення",
+        "Не знаю",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "21. Чи важлива можливість зйомки у 8К форматі?",
+      "options": [
+        "Так",
+        "Ні",
+        "Не знаю",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "22. Чи редагуєте ви фотографії прямо на смартфоні?",
+      "options": [
+        "Так, часто",
+        "Так, рідко",
+        "Я не граю",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "23. Ви збираєтеся використовувати смартфон для ігор?",
+      "options": [
+        "PubG Mobile",
+        "Call of Duty: Мобільний",
+        "Вплив жінок",
+        "Зіткнення кланів",
+        "Роблок",
+        "Прості ігри",
+        "Я не граю",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "24. Які ігри ви граєте на смартфоні?",
+      "options": [
+        "64 Гб",
+        "128 Гб",
+        "256 Гб",
+        "512 Гб",
+        "1 Тб",
+        "Не фундаментальний",
+        "Не знаю",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "25. Яка мінімальна кількість вбудованої пам’яті?",
+      "options": [
+        "Обов'язково",
+        "Не фундаментальний",
+        "Не знаю",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "26. Чи важливо для вас збільшити пам'ять смартфона за допомогою карт MicroSD?",
+      "options": [
+        "Так",
+        "Ні",
+        "Не знаю",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "27. Чи плануєте ви використовувати смартфон у режимі багатозадачності (одночасно відкрити кілька програм на одному екрані)?",
+      "options": [
+        "Так",
+        "Ні",
+        "Не знаю",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "28. Чи важливо для вас бездротова зарядка?",
+      "options": [
+        "Так",
+        "Ні",
+        "Не знаю",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "29. Чи важлива для вас підтримка NFC для безконтактних платежів?",
+      "options": [
+        "Так",
+        "Ні",
+        "Не знаю",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "30. Чи потрібен вам роз'єм для підключення дротових навушників (3,5 мм)?",
+      "options": [
+        "Так",
+        "Ні",
+        "Не знаю",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "31. Вам потрібен датчик відбитків пальців?",
+      "options": [
+        "Так",
+        "Ні",
+        "Не знаю",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "32. Чи можливість розблокування смартфона з важливим для вас обличчям?",
+      "options": [
+        "Так",
+        "Ні",
+        "Не знаю",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "33. Чи важливий рівень захисту смартфона від води та пилу (стандарт IP)?",
+      "options": [
+        "Так",
+        "Ні",
+        "Не знаю",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "34. Чи можливо вам мати функцію відображення завжди в дисплеї?",
+      "options": [
+        "Важливий",
+        "Не має значення",
+        "Не знаю",
+        "Я не розумію",
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "35. Кілька слів опишіть, що вам потрібен смартфон. Приклад: \"Я часто граю на смартфоні і мені потрібен смартфон для ігор\", \"Я майстер манікюру, і мені потрібен смартфон з хорошою камерою, щоб вести свій Instagram\"",
+      "options": [
+        "Ваша власна версія відповіді",
+        "Наступний"
+      ]
+    },
+    {
+      "text": "36. У якій країні ти проживаєш?",
+      "options": [
+        "Ваша власна версія відповіді"
+      ]
+    }
+  ]
+}
